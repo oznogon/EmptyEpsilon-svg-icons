@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Warp" transform="matrix(3.2543,0,0,3.2543,-866.125,-2532.57)">
+        <g transform="matrix(2.02674,0,0,2.03643,-504.142,-225.077)">
+            <path d="M402.943,499.44L392.793,499.44L406.702,519.082L392.793,538.725L402.943,538.725L416.852,519.082L402.943,499.44Z"/>
+        </g>
+        <g transform="matrix(2.02674,0,0,2.03643,-473.714,-225.077)">
+            <path d="M402.943,499.44L392.793,499.44L406.702,519.082L392.793,538.725L402.943,538.725L416.852,519.082L402.943,499.44Z"/>
+        </g>
+        <g transform="matrix(2.02674,0,0,2.03643,-504.142,-225.077)">
+            <path d="M400.311,519.082L393.638,509.59L381.327,519.082L393.638,528.575L400.311,519.082Z"/>
+        </g>
+    </g>
+</svg>

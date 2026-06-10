@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Ship-s-log" serif:id="Ship&apos;s log" transform="matrix(4.16667,0,0,4.16667,-3829.08,-1696.58)">
+        <g transform="matrix(1.01664,0,0,1.8,-16.2619,-335.12)">
+            <rect x="934.2" y="421" width="54.1" height="5"/>
+        </g>
+        <g transform="matrix(1.01664,0,0,1.8,-16.2619,-317.12)">
+            <rect x="934.2" y="421" width="54.1" height="5"/>
+        </g>
+        <g transform="matrix(1.01664,0,0,1.8,-16.2619,-299.12)">
+            <rect x="934.2" y="421" width="54.1" height="5"/>
+        </g>
+        <g transform="matrix(1.01664,0,0,1.8,-16.2619,-281.12)">
+            <rect x="934.2" y="421" width="54.1" height="5"/>
+        </g>
+        <g id="Frame" transform="matrix(1,0,0,1.16024,0,-65.5955)">
+            <path d="M921.439,478.01L921.439,415.482C921.439,412.096 924.628,409.348 928.556,409.348L993.403,409.348C997.331,409.348 1000.52,412.096 1000.52,415.482L1000.52,478.01L996.52,478.01L996.52,415.482C996.52,413.999 995.123,412.795 993.403,412.795L928.556,412.795C926.836,412.795 925.439,413.999 925.439,415.482L925.439,478.01L921.439,478.01Z"/>
+        </g>
+    </g>
+</svg>
