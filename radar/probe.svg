@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Probe" transform="matrix(4.17821,0,0,4.17821,-627.256,-627.219)">
-        <path id="Circle" d="M192.009,152.111C214.025,152.111 231.899,169.985 231.899,192.001C231.899,214.016 214.025,231.89 192.009,231.89C169.994,231.89 152.12,214.016 152.12,192.001C152.12,169.985 169.994,152.111 192.009,152.111ZM192.009,166.073C177.699,166.073 166.081,177.691 166.081,192.001C166.081,206.311 177.699,217.929 192.009,217.929C206.32,217.929 217.938,206.311 217.938,192.001C217.938,177.691 206.32,166.073 192.009,166.073Z"/>
-        <g id="Dot" transform="matrix(1.22794,0,0,1.22794,-43.5379,-44.0613)">
-            <circle cx="191.815" cy="192.241" r="6.253"/>
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Hull" transform="matrix(1,0,0,1,-226,-2)">
+            <g id="Probe">
+                <g id="Hull1" serif:id="Hull">
+                    <g id="Body" transform="matrix(2.66667,0,0,2.66667,-403.333,-30)">
+                        <circle cx="242" cy="18" r="3" style="fill:url(#_Radial1);"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-795,0)">
+                        <path d="M1037,2C1045.83,2 1053,9.169 1053,18C1053,26.831 1045.83,34 1037,34C1028.17,34 1021,26.831 1021,18C1021,9.169 1028.17,2 1037,2ZM1037,9.5C1032.31,9.5 1028.5,13.309 1028.5,18C1028.5,22.691 1032.31,26.5 1037,26.5C1041.69,26.5 1045.5,22.691 1045.5,18C1045.5,13.309 1041.69,9.5 1037,9.5Z" style="fill:url(#_Radial2);"/>
+                    </g>
+                </g>
+            </g>
         </g>
     </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.12" style="stop-color:white;stop-opacity:1"/><stop offset="0.58" style="stop-color:rgb(69,69,69);stop-opacity:0.27"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(16,0,0,16,1037,18)"><stop offset="0" style="stop-color:black;stop-opacity:0"/><stop offset="0.58" style="stop-color:black;stop-opacity:0"/><stop offset="0.7" style="stop-color:rgb(189,189,189);stop-opacity:0.74"/><stop offset="0.81" style="stop-color:white;stop-opacity:1"/><stop offset="0.9" style="stop-color:rgb(181,181,181);stop-opacity:0.71"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></radialGradient>
+    </defs>
 </svg>

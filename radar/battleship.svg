@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Battleship" transform="matrix(1,0,0,1,-100.287,0.704164)">
+        <g id="Ship">
+            <g id="Nose" transform="matrix(1,0,0,1,102,1)">
+                <path d="M24.886,13L25.882,13L30.882,16L25.882,19L24.882,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust" transform="matrix(1,0,0,1,101.991,1)">
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L5.332,5.257L6.044,7.082" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L5.242,27L6.013,25" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull" transform="matrix(1,0,0,1,4,-1)">
+                <g id="Reinforced-hull-shorter" serif:id="Reinforced hull shorter">
+                    <path d="M99,16L104,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <path d="M99,20L104.004,14.996" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <g id="Reinforced-hull-short" serif:id="Reinforced hull short">
+                    <g transform="matrix(1,0,0,1,13,0)">
+                        <path d="M98,15L104,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,13,0)">
+                        <path d="M98,21L104.004,14.996" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                </g>
+                <g id="Reinforced-hull-long" serif:id="Reinforced hull long" transform="matrix(1.16596,0,0,1,-18.421,0)">
+                    <path d="M105,27L111,9" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                    <path d="M105,9L111,27" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Reinforced-hull-long1" serif:id="Reinforced hull long" transform="matrix(1.16667,0,0,1,-5.5,0)">
+                    <path d="M105,27L111,9" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                    <path d="M105,9L111,27" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

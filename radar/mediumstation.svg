@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Medium-station" serif:id="Medium station" transform="matrix(1,0,0,1,-933.296,-5.29584)">
+            <g id="Arrow-aft-starboard" serif:id="Arrow aft starboard" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
+                <g id="Arrow-aft-starboard1" serif:id="Arrow aft starboard" transform="matrix(1,0,0,1,155,0)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <g id="Port-aft-starboard" serif:id="Port aft starboard" transform="matrix(6.12323e-17,-1,1,6.12323e-17,1083,1119)">
+                    <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+            </g>
+            <g id="Arrow-fore-starboard" serif:id="Arrow fore starboard" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
+                <g id="Arrow-fore-starboard1" serif:id="Arrow fore starboard" transform="matrix(-1.6148e-14,-1,1,-1.6148e-14,1083,964)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <g id="Port-fore-starboard" serif:id="Port fore starboard" transform="matrix(-6.12323e-17,-1,-1,6.12323e-17,1119,1119)">
+                    <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+            </g>
+            <g id="Arrow-aft-port" serif:id="Arrow aft port" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
+                <g id="Arrow-aft-port1" serif:id="Arrow aft port" transform="matrix(-1.65921e-14,-1,1,-1.65921e-14,1070,951)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <path id="Port-aft-port" serif:id="Port aft port" d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+            </g>
+            <g id="Arrow-fore-port" serif:id="Arrow fore port" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
+                <g id="Arrow-fore-port1" serif:id="Arrow fore port" transform="matrix(1,-1.66533e-14,1.66533e-14,1,168,-13)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <g id="Port-fore-port" serif:id="Port fore port" transform="matrix(-1,0,0,1,2202,0)">
+                    <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

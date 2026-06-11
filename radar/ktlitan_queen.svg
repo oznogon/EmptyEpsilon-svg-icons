@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 114 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Ship" transform="matrix(1,0,0,1,-511.296,-0.295836)">
+            <g id="Ktlitan-queen" serif:id="Ktlitan queen">
+                <g id="Ship1" serif:id="Ship">
+                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
+                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7.5L7.505,7.5" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,26.5L7.505,26.5" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Hull">
+                        <g id="Starboard-leg" serif:id="Starboard leg" transform="matrix(1,0,0,-1,-256,36.5)">
+                            <path d="M789,15.5L782.5,9L777,9" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Port-leg" serif:id="Port leg" transform="matrix(1,0,0,1,-256,0)">
+                            <path d="M789,15L782.5,8.5L777,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Abdomen" transform="matrix(1,0,0,1,-256,0)">
+                            <path d="M770,15L784,15L789,16L789,20L784,21L770,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Tall-c-shallow" serif:id="Tall c shallow" transform="matrix(1,0,0,1,-255.985,0.0076134)">
+                            <path d="M795.485,8.492L790.485,8.492L788.985,9.992L788.985,25.992L790.485,27.492L795.485,27.492" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Neck" transform="matrix(1,0,0,1,-256,0)">
+                            <path d="M795.6,18L788.989,19L789,17L795.6,18Z" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

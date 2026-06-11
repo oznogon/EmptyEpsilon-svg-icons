@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Exuari-frigate" serif:id="Exuari frigate" transform="matrix(1,0,0,1,-512.296,-0.295836)">
+        <g id="Ship">
+            <g id="Nose" transform="matrix(1,0,0,1,514,2)">
+                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull">
+                <path id="Beam-aft" serif:id="Beam aft" d="M520.5,15L520.5,24M520.5,15L520.5,12" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-starboard" serif:id="Beam starboard" d="M520.5,21L539,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-port" serif:id="Beam port" d="M539,15L520.5,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Hull-center" serif:id="Hull center" d="M527,11L527,25C527,25 529,26 530,26C531,26 533,25 533,25L533,11C533,11 531,10 530,10C529,10 527,11 527,11Z" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+</svg>

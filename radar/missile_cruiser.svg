@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Ship" transform="matrix(1,0,0,1,1.70416,1.70416)">
+            <g id="Missile-cruiser" serif:id="Missile cruiser">
+                <g id="Ship1" serif:id="Ship">
+                    <path id="Nose" d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <g id="Exhaust">
+                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Hull">
+                        <g id="Beam-aft" serif:id="Beam aft" transform="matrix(1,0,0,1,0.490785,0)">
+                            <path d="M6.009,6L6.009,26" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        </g>
+                        <path id="Outer-hull-starboard" serif:id="Outer hull starboard" d="M6.5,26L19,26L24.971,20.029" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path id="Outer-hull-port" serif:id="Outer hull port" d="M6.5,6L19,6L25.012,12.012" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <g id="Inner-hull-starboard" serif:id="Inner hull starboard" transform="matrix(1,0,0,1,-957,-2)">
+                            <path d="M963.5,21L975,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        </g>
+                        <g id="Inner-hull-port" serif:id="Inner hull port" transform="matrix(1,0,0,1,-957,-8)">
+                            <path d="M963.5,21L975,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

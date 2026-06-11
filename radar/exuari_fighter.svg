@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Exuari-fighter" serif:id="Exuari fighter" transform="matrix(1,0,0,1,-480.296,-0.295836)">
+        <g id="Ship">
+            <g id="Nose" transform="matrix(1,0,0,1,482,2)">
+                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust" transform="matrix(1,0,0,1,482.495,1)">
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull">
+                <path id="Beam-aft" serif:id="Beam aft" d="M495,11L499.051,15.051L499.051,21L495.047,25.004" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-starboard" serif:id="Beam starboard" d="M499,21L507,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Winglet-starboard" serif:id="Winglet starboard" d="M502,26L502,23L504.069,20.931" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-port" serif:id="Beam port" d="M499.051,15L507,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <g id="Winglet-starboard1" serif:id="Winglet starboard" transform="matrix(1,0,0,-1,0,36)">
+                    <path d="M502,26L502,23L504.069,20.931" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

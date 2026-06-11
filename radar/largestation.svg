@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 117 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Large-station" serif:id="Large station" transform="matrix(1,0,0,1,-863.296,0.704164)">
+            <g id="Hull">
+                <g id="Beams">
+                    <path d="M866,15L874,15L890,21L898,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,864,900)">
+                        <path d="M866,15L874,15L890,21L898,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                </g>
+                <g id="Ports--Medium-Station-" serif:id="Ports (Medium Station)">
+                    <g id="Port" transform="matrix(1,0,0,1,-64,0)">
+                        <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Port1" serif:id="Port" transform="matrix(6.12323e-17,1,-1,6.12323e-17,900,-928)">
+                        <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Port2" serif:id="Port" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1828,36)">
+                        <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Port3" serif:id="Port" transform="matrix(6.12323e-17,-1,1,6.12323e-17,864,964)">
+                        <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                        <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 37 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Ship" transform="matrix(1,0,0,1,-320.296,-1.29584)">
+        <g id="Exuari-2" serif:id="Exuari 2">
+            <g id="Ship1" serif:id="Ship">
+                <g id="Nose" transform="matrix(1,0,0,1,322,3)">
+                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
+                    <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull">
+                    <g id="Beam-starboard" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
+                        <path d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <path id="Beam-port" serif:id="Beam port" d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <g id="Reinforced-hull" serif:id="Reinforced hull" transform="matrix(1,0,0,1,31,0.961579)">
+                        <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Weapon-starboard" serif:id="Weapon starboard" transform="matrix(1,0,0,1,-6,0)">
+                        <g id="Weapon-starboard1" serif:id="Weapon starboard" transform="matrix(1,0,0,1,0,2)">
+                            <path d="M346,25L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hardpoint-starboard" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,0,37)">
+                            <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        </g>
+                    </g>
+                    <g id="Weapon-port" serif:id="Weapon port" transform="matrix(1,0,0,1,-6,0)">
+                        <g id="Weapon-port1" serif:id="Weapon port" transform="matrix(1,0,0,1,0,-16)">
+                            <path d="M346,27L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hardpoint-port" serif:id="Hardpoint port" transform="matrix(1,0,0,1,0,1)">
+                            <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

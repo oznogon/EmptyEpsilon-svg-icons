@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-0.295836)">
+            <g id="Ktlitan-breaker" serif:id="Ktlitan breaker">
+                <g id="Ship1" serif:id="Ship">
+                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
+                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Hull" transform="matrix(1,0,0,1,-32,0)">
+                        <g id="Wings" transform="matrix(1,0,0,1,-64,0)">
+                            <path d="M629,8L616.5,16.001L616.5,20L629,28" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Beam-center" serif:id="Beam center" transform="matrix(1,0,0,1,-64,0)">
+                            <path d="M616.5,18L629,18" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

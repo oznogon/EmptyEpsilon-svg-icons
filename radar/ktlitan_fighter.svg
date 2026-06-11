@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(3.125,0,0,3.125,0,0)">
+        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-0.295836)">
+            <g id="Ktlitan-fighter" serif:id="Ktlitan fighter">
+                <g id="Ship1" serif:id="Ship">
+                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
+                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Hull">
+                        <g id="Central-frame" serif:id="Central frame" transform="matrix(1,0,0,1,-224.01,0)">
+                            <path d="M746.021,21.965L748,20L751,20L757,18L751,15.965L748,15.965L746.021,14" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="C-frame" serif:id="C frame" transform="matrix(1,0,0,1,-224.01,0)">
+                            <path d="M763.546,8.503L750.52,8.503L745.5,13.5L746,14L744.526,15.546L744.526,20.47L746,22L745.509,22.477L751.012,27.981L763.547,27.981" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

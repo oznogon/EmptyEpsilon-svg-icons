@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 36 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Advanced-striker" serif:id="Advanced striker" transform="matrix(1,0,0,1,-64.2324,1.70416)">
+        <g id="Ship">
+            <g id="Nose" transform="matrix(1,0,0,1,66,1)">
+                <path d="M24.937,13L25.937,13L30.937,16L25.937,19L24.937,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust" transform="matrix(1,0,0,1,66,1)">
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.937,1L5.937,6" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.937,31L5.937,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull">
+                <g id="Starboard-wing" serif:id="Starboard wing" transform="matrix(1,0,0,-1,0,34)">
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M39.937,2L47.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M52.937,2L40.937,14L41.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M41.937,13L39.937,15L58.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M59.937,2L46.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+                <g id="Port-wing" serif:id="Port wing">
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M39.937,2L47.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M52.937,2L40.937,14L41.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M41.937,13L39.937,15L58.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M59.937,2L46.937,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
