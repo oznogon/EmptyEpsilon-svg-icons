@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-0.0350594,1.04989)">
+        <rect x="-147" y="-106.292" width="2333.03" height="2284.24"/>
+    </g>
+    <g id="Worm-hole" serif:id="Worm hole" transform="matrix(1.26087,0,0,1.26087,-1339.61,153.304)">
+        <g>
+            <g transform="matrix(0.958333,0,0,0.958333,51.2083,0.75)">
+                <circle cx="1229" cy="18" r="12" style="fill:rgb(0,0,43);"/>
+            </g>
+            <g transform="matrix(1.00629,0,0,1.08016,1228.72,16.4484)">
+                <g transform="matrix(0.788148,-0,-0,0.734248,-165.237,-127.791)">
+                    <use xlink:href="#_Image1" x="193.676" y="159.676" width="33px" height="33px"/>
+                </g>
+            </g>
+            <g transform="matrix(1.00629,0,0,1.08016,1228.72,16.4484)">
+                <g transform="matrix(0.788148,-0,-0,0.734248,-165.237,-127.791)">
+                    <use xlink:href="#_Image2" x="194.189" y="159.189" width="33px" height="34px"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship" transform="matrix(1,0,0,1,-352,158)">
+        <g id="Tug">
+            <g id="Ship1" serif:id="Ship">
+                <g id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull">
+                </g>
+                <g transform="matrix(1,0,0,1,-667,0)">
+                    <path d="M1200.5,15L1188,15L1187,16L1187,20L1188,21L1200.5,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship2" serif:id="Ship" transform="matrix(1,0,0,1,130,160)">
+        <g id="Transport">
+            <g id="Ship3" serif:id="Ship">
+                <path id="Nose1" serif:id="Nose" d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <g id="Exhaust1" serif:id="Exhaust">
+                    <path id="Exhaust-starboard1" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port1" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull1" serif:id="Hull">
+                    <g id="Beam-aft" serif:id="Beam aft" transform="matrix(1,0,0,1,0.490785,-3.55271e-15)">
+                        <path d="M6.009,6L6.009,26" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Beam-central" serif:id="Beam central" transform="matrix(1,0,0,1,-1149,-2)">
+                        <path d="M1162,8.5L1162,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Beam-fore" serif:id="Beam fore" transform="matrix(1,0,0,1,-1143,-2)">
+                        <path d="M1162,8.5L1162,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Beam-starboard" serif:id="Beam starboard" transform="matrix(1,0,0,1,-1149,-2)">
+                        <path d="M1155.5,21L1174,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Beam-port" serif:id="Beam port" transform="matrix(1,0,0,1,-1149,-2)">
+                        <path d="M1155.5,15L1174,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship4" serif:id="Ship" transform="matrix(1,0,0,1,32,159)">
+        <g id="Striker">
+            <g id="Ship5" serif:id="Ship">
+                <g id="Nose2" serif:id="Nose" transform="matrix(1,0,0,1,66,1)">
+                    <path d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust2" serif:id="Exhaust" transform="matrix(1,0,0,1,66,1)">
+                    <path id="Exhaust-starboard2" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port2" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull2" serif:id="Hull">
+                    <g id="Starboard-wing" serif:id="Starboard wing" transform="matrix(1,0,0,-1,0,34)">
+                        <g id="Winglet-aft-starboard" serif:id="Winglet aft starboard" transform="matrix(1,0,0,1,32,-1)">
+                            <path d="M46.5,8.5L41.028,13.972L42.056,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hull-starboard" serif:id="Hull starboard" transform="matrix(1,0,0,1,32,-1)">
+                            <path d="M42.056,12.944L40,15L59,14.96" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Wing-fore-starboard" serif:id="Wing fore starboard" transform="matrix(1,0,0,1,32,-1)">
+                            <path d="M60,2L47,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                    <g id="Port-wing" serif:id="Port wing">
+                        <g id="Winglet-aft-port" serif:id="Winglet aft port" transform="matrix(1,0,0,1,32,-1)">
+                            <path d="M46.5,8.5L41.028,13.972L42.056,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hull-port" serif:id="Hull port" transform="matrix(1,0,0,1,32,-1)">
+                            <path d="M42.056,12.944L40,15L59,14.96" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Wing-fore-port" serif:id="Wing fore port" transform="matrix(1,0,0,1,32,-1)">
+                            <path d="M60,2L47,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Small-station" serif:id="Small station" transform="matrix(1,0,0,1,-1019,158)">
+        <g id="Hull3" serif:id="Hull">
+            <path id="Port" d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            <g id="Port1" serif:id="Port" transform="matrix(6.12323e-17,-1,1,6.12323e-17,1083,1119)">
+                <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+            <g id="Port2" serif:id="Port" transform="matrix(-1,0,0,1,2202,0)">
+                <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+            <g id="Port3" serif:id="Port" transform="matrix(-6.12323e-17,-1,-1,6.12323e-17,1119,1119)">
+                <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Hull4" serif:id="Hull" transform="matrix(1,0,0,1,-192,158)">
+        <g id="Satellite">
+            <g id="Hull5" serif:id="Hull">
+                <g id="Panel" transform="matrix(6.12323e-17,-1,1,6.12323e-17,224,260)">
+                    <circle cx="242" cy="18" r="3" style="fill:url(#_Radial3);"/>
+                </g>
+                <g id="Panel-starboard" serif:id="Panel starboard" transform="matrix(6.12323e-17,-1,1,6.12323e-17,224,1086)">
+                    <path d="M1058,18L1064,18" style="fill:none;stroke:white;stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Panel-port" serif:id="Panel port" transform="matrix(6.12323e-17,-1,1,6.12323e-17,224,1072)">
+                    <path d="M1058,18L1064,18" style="fill:none;stroke:white;stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Hull6" serif:id="Hull" transform="matrix(1,0,0,1,-224,158)">
+        <g id="Probe">
+            <g id="Hull7" serif:id="Hull">
+                <g id="Body" transform="matrix(2.66667,0,0,2.66667,-403.333,-30)">
+                    <circle cx="242" cy="18" r="3" style="fill:url(#_Radial4);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-795,0)">
+                    <path d="M1037,2C1045.83,2 1053,9.169 1053,18C1053,26.831 1045.83,34 1037,34C1028.17,34 1021,26.831 1021,18C1021,9.169 1028.17,2 1037,2ZM1037,9.5C1032.31,9.5 1028.5,13.309 1028.5,18C1028.5,22.691 1032.31,26.5 1037,26.5C1041.69,26.5 1045.5,22.691 1045.5,18C1045.5,13.309 1041.69,9.5 1037,9.5Z" style="fill:url(#_Radial5);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship6" serif:id="Ship" transform="matrix(1,0,0,1,226,120)">
+        <g id="Pirahna">
+            <g id="Ship7" serif:id="Ship">
+                <path id="Nose3" serif:id="Nose" d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <g id="Exhaust3" serif:id="Exhaust">
+                    <path id="Exhaust-starboard3" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port3" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull8" serif:id="Hull">
+                    <g id="Aft">
+                        <path id="Beam-aft1" serif:id="Beam aft" d="M7,4L7,28" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        <path id="Outer-hull-aft" serif:id="Outer hull aft" d="M6.009,6L6.009,26" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Starboard">
+                        <path id="Inner-hull-aft-starboard" serif:id="Inner hull aft starboard" d="M11,19L11,28" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        <path id="Inner-hull-fore-starboard" serif:id="Inner hull fore starboard" d="M15,19L15,28" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        <path id="Outer-hull-starboard" serif:id="Outer hull starboard" d="M6.009,26L19,26L24.971,20.029" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Port4" serif:id="Port">
+                        <path id="Inner-hull-aft-port" serif:id="Inner hull aft port" d="M11,4L11,13" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        <path id="Inner-hull-fore-port" serif:id="Inner hull fore port" d="M15,4L15,13" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        <path id="Outer-hull-port" serif:id="Outer hull port" d="M6.009,6L19,6L25.012,12.012" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship8" serif:id="Ship" transform="matrix(1,0,0,1,194,120)">
+        <g id="Missile-cruiser" serif:id="Missile cruiser">
+            <g id="Ship9" serif:id="Ship">
+                <path id="Nose4" serif:id="Nose" d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <g id="Exhaust4" serif:id="Exhaust">
+                    <path id="Exhaust-starboard4" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port4" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull9" serif:id="Hull">
+                    <g id="Beam-aft2" serif:id="Beam aft" transform="matrix(1,0,0,1,0.490785,0)">
+                        <path d="M6.009,6L6.009,26" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <path id="Outer-hull-starboard1" serif:id="Outer hull starboard" d="M6.5,26L19,26L24.971,20.029" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <path id="Outer-hull-port1" serif:id="Outer hull port" d="M6.5,6L19,6L25.012,12.012" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <g id="Inner-hull-starboard" serif:id="Inner hull starboard" transform="matrix(1,0,0,1,-957,-2)">
+                        <path d="M963.5,21L975,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g id="Inner-hull-port" serif:id="Inner hull port" transform="matrix(1,0,0,1,-957,-8)">
+                        <path d="M963.5,21L975,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Medium-station" serif:id="Medium station" transform="matrix(1,0,0,1,-768,118)">
+        <g id="Hull10" serif:id="Hull">
+            <g id="Port5" serif:id="Port">
+                <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+            <g id="Port6" serif:id="Port" transform="matrix(6.12323e-17,1,-1,6.12323e-17,964,-928)">
+                <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+            <g id="Port7" serif:id="Port" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1892,36)">
+                <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+            <g id="Port8" serif:id="Port" transform="matrix(6.12323e-17,-1,1,6.12323e-17,928,964)">
+                <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Ship10" serif:id="Ship" transform="matrix(1,0,0,1,-384,118)">
+        <g id="Laser">
+            <g id="Ship11" serif:id="Ship">
+                <g id="Nose5" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:2px;"/>
+                </g>
+                <g id="Exhaust5" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <g id="Exhaust-starboard5" serif:id="Exhaust starboard" transform="matrix(1,0,0,1,0,3)">
+                        <path d="M0.505,2L5.005,6.5" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                    <g id="Exhaust-port5" serif:id="Exhaust port" transform="matrix(1,0,0,1,0,-2.5)">
+                        <path d="M0.505,31.5L5.005,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-384,0)">
+                    <g id="Hull11" serif:id="Hull">
+                        <path d="M927,16L906,16C906,16 905.553,17.333 905.553,18C905.553,18.667 906,20 906,20L927,20L927,21C927,21 926.284,20.826 926,21C925.597,21.248 925.244,22.321 924.579,22.487C923.913,22.654 922.51,22.243 922,22C921.674,21.845 921.518,21.031 921.518,21.031C921.518,21.031 918.355,20.779 917.529,21.031C916.957,21.205 917.133,22.367 916.561,22.54C915.732,22.792 913.313,22.464 912.552,22.54C912.314,22.564 912.233,22.946 912,23C911.669,23.077 910.564,23 910.564,23C910.231,23.167 910.374,23.918 910,24C909.239,24.167 907.193,24.596 906,24C904.667,23.333 902.259,20 902.259,20C902.259,20 902,19.667 902,18C902,16.333 902.263,16 902.263,16C902.263,16 904.711,12.667 906,12C907.184,11.388 909.239,11.832 910,12C910.377,12.083 910.233,12.841 910.566,13.01C910.566,13.01 911.67,12.916 912,13.01C912.252,13.081 912.288,13.541 912.548,13.573C913.306,13.667 915.712,13.336 916.547,13.573C917.108,13.732 917.002,14.835 917.562,14.996C918.385,15.233 921.481,14.996 921.481,14.996C921.481,14.996 921.665,14.167 922,14C922.501,13.749 923.82,13.326 924.487,13.492C925.154,13.659 925.581,14.749 926,15C926.286,15.171 927,15 927,15L927,16Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Large-station" serif:id="Large station" transform="matrix(1,0,0,1,-768,118)">
+        <g id="Hull12" serif:id="Hull">
+            <g id="Beams">
+                <path d="M866,15L874,15L890,21L898,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,864,900)">
+                    <path d="M866,15L874,15L890,21L898,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+            <g id="Ports--Medium-Station-" serif:id="Ports (Medium Station)">
+                <g id="Port9" serif:id="Port" transform="matrix(1,0,0,1,-64,0)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Port10" serif:id="Port" transform="matrix(6.12323e-17,1,-1,6.12323e-17,900,-928)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Port11" serif:id="Port" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1828,36)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Port12" serif:id="Port" transform="matrix(6.12323e-17,-1,1,6.12323e-17,864,964)">
+                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M936.5,21L943,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M943,21L943,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship12" serif:id="Ship" transform="matrix(1,0,0,1,-448.5,118)">
+        <g id="Ktlitan-worker" serif:id="Ktlitan worker">
+            <g id="Ship13" serif:id="Ship">
+                <g id="Nose6" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M26,13L27,13L31,16L27,19L26,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Exhaust6" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard6" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port6" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull13" serif:id="Hull">
+                    <g id="Winglet-starboard" serif:id="Winglet starboard" transform="matrix(1,0,0,-1,-288,36.5096)">
+                        <path d="M834,9.51L816,14.51L814.971,13.48L814.971,10.51L816.461,9.019L821,9.019" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Reinforced-hull" serif:id="Reinforced hull">
+                        <g transform="matrix(1,0,0,1,-320,0)">
+                            <path d="M841,15L859,21L860,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-320,0)">
+                            <path d="M841,21L859,15L860,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                    <g id="Winglet-port" serif:id="Winglet port" transform="matrix(1,0,0,1,-288,0)">
+                        <path d="M834,9L816,14L814.971,12.971L814.971,10L816.461,8.51L821,8.51" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Beam-aft3" serif:id="Beam aft" transform="matrix(1,0,0,1.14286,-320,-2)">
+                        <path d="M848,14L847,17L847,18L848,21" style="fill:none;stroke:white;stroke-width:2.79px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship14" serif:id="Ship" transform="matrix(1,0,0,1,-480,118)">
+        <g id="Ktlitan-scout" serif:id="Ktlitan scout">
+            <g id="Ship15" serif:id="Ship">
+                <g id="Nose7" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust7" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard7" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port7" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull14" serif:id="Hull">
+                    <g id="Aft-assembly" serif:id="Aft assembly" transform="matrix(1,0,0,1,-288,0)">
+                        <path d="M821.029,8.5L808.5,8.5L815,15L809,18L815,21L808.5,27.5L821,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Central-hull" serif:id="Central hull" transform="matrix(1,0,0,1,-288,0)">
+                        <path d="M815,21L827,21L827.949,20.051L827.949,16L826.968,15.02L815,15.02" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Winglet-starboard1" serif:id="Winglet starboard" transform="matrix(1,0,0,1,-288,0)">
+                        <path d="M827,27L821.013,21.013" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Winglet-port1" serif:id="Winglet port" transform="matrix(1,0,0,1,-288,0)">
+                        <path d="M827,9L820.973,15.027" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship16" serif:id="Ship" transform="matrix(1,0,0,1,-511.5,118)">
+        <g id="Ktlitan-queen" serif:id="Ktlitan queen">
+            <g id="Ship17" serif:id="Ship">
+                <g id="Nose8" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust8" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard8" serif:id="Exhaust starboard" d="M0.505,2L5.505,7.5L7.505,7.5" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port8" serif:id="Exhaust port" d="M0.505,32L5.505,26.5L7.505,26.5" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull15" serif:id="Hull">
+                    <g id="Starboard-leg" serif:id="Starboard leg" transform="matrix(1,0,0,-1,-256,36.5)">
+                        <path d="M789,15.5L782.5,9L777,9" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Port-leg" serif:id="Port leg" transform="matrix(1,0,0,1,-256,0)">
+                        <path d="M789,15L782.5,8.5L777,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Abdomen" transform="matrix(1,0,0,1,-256,0)">
+                        <path d="M770,15L784,15L789,16L789,20L784,21L770,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Collar" transform="matrix(1,0,0,1,-256,0)">
+                        <path d="M795.558,8.492L790.52,8.492L789,10L789,25.5L791,27.5L795.6,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Neck" transform="matrix(1,0,0,1,-256,0)">
+                        <path d="M795.6,18L788.989,19L789,17L795.6,18Z" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship18" serif:id="Ship" transform="matrix(1,0,0,1,-288,78)">
+        <g id="Ktlitan-fighter" serif:id="Ktlitan fighter">
+            <g id="Ship19" serif:id="Ship">
+                <g id="Nose9" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust9" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard9" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port9" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull16" serif:id="Hull">
+                    <g id="Central-frame" serif:id="Central frame" transform="matrix(1,0,0,1,-224.01,0)">
+                        <path d="M746.021,21.965L748,20L751,20L757,18L751,15.965L748,15.965L746.021,14" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="C-frame" serif:id="C frame" transform="matrix(1,0,0,1,-224.01,0)">
+                        <path d="M763.546,8.503L750.52,8.503L745.5,13.5L746,14L744.526,15.546L744.526,20.47L746,22L745.509,22.477L751.012,27.981L763.547,27.981" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship20" serif:id="Ship" transform="matrix(1,0,0,1,-320.5,78)">
+        <g id="Ktlitan-feeder" serif:id="Ktlitan feeder">
+            <g id="Ship21" serif:id="Ship">
+                <g id="Nose10" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust10" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard10" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port10" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull17" serif:id="Hull">
+                    <g id="Starboard1" serif:id="Starboard">
+                        <g id="Winglet-aft-starboard1" serif:id="Winglet aft starboard" transform="matrix(1,0,0,-1,-192,36)">
+                            <path d="M719,8.5L719,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hull-starboard1" serif:id="Hull starboard" transform="matrix(1,0,0,-1,-160,36)">
+                            <path d="M680.5,14.989L693,14.989L700,8.5L706,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                    <g id="Port13" serif:id="Port">
+                        <g id="Winglet-aft-port1" serif:id="Winglet aft port" transform="matrix(1,0,0,1,-192,0)">
+                            <path d="M719,8.5L719,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hull-port1" serif:id="Hull port" transform="matrix(1,0,0,1,-160,0)">
+                            <path d="M680.5,14.989L693,14.989L700,8.5L706,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship22" serif:id="Ship" transform="matrix(1,0,0,1,-352,78)">
+        <g id="Ktlitan-drone" serif:id="Ktlitan drone">
+            <g id="Ship23" serif:id="Ship">
+                <g id="Nose11" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust11" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard11" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port11" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull18" serif:id="Hull">
+                    <g id="Beam-aft4" serif:id="Beam aft" transform="matrix(1,0,0,1,-160,0)">
+                        <path d="M681,18L687,18" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Winglet-aft-starboard2" serif:id="Winglet aft starboard" transform="matrix(1,0,0,1,-160,0)">
+                        <path d="M687,18L687,20L688.151,21.151L688.151,22L693.101,26.95" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Winglet-fore-starboard" serif:id="Winglet fore starboard" transform="matrix(1,0,0,1,-160,0)">
+                        <path d="M688.151,21.151L693.035,21.151L698.999,27.115" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Winglet-aft-port2" serif:id="Winglet aft port" transform="matrix(1,0,0,1,-160,0)">
+                        <path d="M687,18L687,16L688.011,14.989L688.011,14L693.035,8.975" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Winglet-fore-port" serif:id="Winglet fore port" transform="matrix(1,0,0,1,-160,0)">
+                        <path d="M688.011,14.989L693,14.989L698.766,9.223" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship24" serif:id="Ship" transform="matrix(1,0,0,1,-384,78)">
+        <g id="Ktlitan-destroyer" serif:id="Ktlitan destroyer">
+            <g id="Ship25" serif:id="Ship">
+                <g id="Nose12" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust12" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard12" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port12" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull19" serif:id="Hull" transform="matrix(1,0,0,1,-32,0)">
+                    <g id="Beam-center" serif:id="Beam center" transform="matrix(1,0,0,1,-64,0)">
+                        <path d="M624,18.029L635,18" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-96,0)">
+                        <path d="M654,20L657,18.014L654,16" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-96,0)">
+                        <path d="M654,9L649.023,13.977L651,18L649,22L654.058,27.058" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-96,0)">
+                        <path d="M661,21L656,21L654,20L652.037,18.037" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-96,0)">
+                        <path d="M661,15L656,15L654,16L651.987,18.013" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship26" serif:id="Ship" transform="matrix(1,0,0,1,-416,78)">
+        <g id="Ktlitan-breaker" serif:id="Ktlitan breaker">
+            <g id="Ship27" serif:id="Ship">
+                <g id="Nose13" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust13" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard13" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port13" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull20" serif:id="Hull" transform="matrix(1,0,0,1,-32,0)">
+                    <g id="Wings" transform="matrix(1,0,0,1,-64,0)">
+                        <path d="M629,8L616.5,16.001L616.5,20L629,28" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Beam-center1" serif:id="Beam center" transform="matrix(1,0,0,1,-64,0)">
+                        <path d="M616.5,18L629,18" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Hull21" serif:id="Hull" transform="matrix(0.994439,0,0,1,-508.786,78)">
+        <g id="Huge-station" serif:id="Huge station">
+            <g id="Hull22" serif:id="Hull">
+                <clipPath id="_clip6">
+                    <ellipse cx="594.089" cy="18" rx="16.089" ry="16"/>
+                </clipPath>
+                <g clip-path="url(#_clip6)">
+                    <g>
+                        <path d="M584.034,21.484L584.034,34" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        <g transform="matrix(-1.00559,0,0,1,1172.3,0)">
+                            <path d="M581,21.5L588,14.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g transform="matrix(-1.00559,0,0,1,1192.42,0)">
+                            <path d="M581,21.5L588,14.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g transform="matrix(6.15748e-17,1,-1.00559,6.12323e-17,612.693,-556.5)">
+                            <path d="M581,21.5L588,14.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <path d="M591,2L591,14.5L578,14.5" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        <g transform="matrix(1,0,0,1,6.44211,0)">
+                            <path d="M590.664,2L590.664,15L584.516,21.484L584.516,34" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,12.8421,0)">
+                            <path d="M591,2L591,15" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,576.179,612.179)">
+                        <path d="M590.679,2L590.679,15L583.179,21.484L583.179,34" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        <g transform="matrix(1,0,0,1,6.44211,0)">
+                            <path d="M571.737,20.927L584.237,20.927L584.237,34" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,12.8421,0)">
+                            <path d="M591.837,2L591.837,15L584.837,21.484L584.837,34" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                    <g>
+                        <path d="M584.034,2L584.034,14.737" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        <path d="M578.179,29L591,29" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        <path d="M604,21L604,34" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        <g transform="matrix(1,0,0,1,0,0.131581)">
+                            <path d="M597.442,7.368L608,7.368" style="fill:none;stroke:white;stroke-width:3.01px;stroke-linecap:butt;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship28" serif:id="Ship" transform="matrix(1,0,0,1,-480,78)">
+        <g id="Fighter">
+            <g id="Ship29" serif:id="Ship">
+                <g id="Nose14" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust14" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                    <path id="Exhaust-starboard14" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port14" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull23" serif:id="Hull" transform="matrix(1,0,0,1,-32,0)">
+                    <path d="M559,9L565,15L565,21L559,27" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M571,15L565,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <g transform="matrix(1,0,0,1,0,6)">
+                        <path d="M571,15L565,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Exuari-frigate" serif:id="Exuari frigate" transform="matrix(1,0,0,1,-512,78)">
+        <g id="Ship30" serif:id="Ship">
+            <g id="Nose15" serif:id="Nose" transform="matrix(1,0,0,1,514,2)">
+                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust15" serif:id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
+                <path id="Exhaust-starboard15" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port15" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull24" serif:id="Hull">
+                <path id="Beam-aft5" serif:id="Beam aft" d="M520.5,15L520.5,24M520.5,15L520.5,12" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-starboard1" serif:id="Beam starboard" d="M520.5,21L539,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-port1" serif:id="Beam port" d="M539,15L520.5,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Hull-center" serif:id="Hull center" d="M527,11L527,25C527,25 529,26 530,26C531,26 533,25 533,25L533,11C533,11 531,10 530,10C529,10 527,11 527,11Z" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Exuari-fighter" serif:id="Exuari fighter" transform="matrix(1,0,0,1,-256,38)">
+        <g id="Ship31" serif:id="Ship">
+            <g id="Nose16" serif:id="Nose" transform="matrix(1,0,0,1,482,2)">
+                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust16" serif:id="Exhaust" transform="matrix(1,0,0,1,482.495,1)">
+                <path id="Exhaust-starboard16" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port16" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull25" serif:id="Hull">
+                <path id="Beam-aft6" serif:id="Beam aft" d="M495,11L499.051,15.051L499.051,21L495.047,25.004" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-starboard2" serif:id="Beam starboard" d="M499,21L507,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Winglet-starboard2" serif:id="Winglet starboard" d="M502,26L502,23L504.069,20.931" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-port2" serif:id="Beam port" d="M499.051,15L507,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <g id="Winglet-starboard3" serif:id="Winglet starboard" transform="matrix(1,0,0,-1,0,36)">
+                    <path d="M502,26L502,23L504.069,20.931" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship32" serif:id="Ship" transform="matrix(1,0,0,1,-128,37)">
+        <g id="Exuari-5" serif:id="Exuari 5">
+            <g id="Ship33" serif:id="Ship">
+                <g id="Nose17" serif:id="Nose" transform="matrix(1,0,0,1,322,3)">
+                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust17" serif:id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
+                    <path id="Exhaust-starboard17" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port17" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull26" serif:id="Hull">
+                    <g id="Beam-starboard3" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
+                        <path d="M329,16L348,16" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <path id="Beam-port3" serif:id="Beam port" d="M329,16L348,16" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <g id="Reinforced-hull1" serif:id="Reinforced hull" transform="matrix(1,0,0,1,27,0.961579)">
+                        <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Hardpoint-starboard" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,-10,37)">
+                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                    </g>
+                    <g id="Hardpoint-port" serif:id="Hardpoint port" transform="matrix(1,0,0,1,-10,1)">
+                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                    </g>
+                </g>
+                <g id="Weapon-starboard" serif:id="Weapon starboard" transform="matrix(1,0,0,1,-10,2)">
+                    <path d="M346,25L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Weapon-port" serif:id="Weapon port" transform="matrix(1,0,0,1,-10,-16)">
+                    <path d="M346,27L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship34" serif:id="Ship" transform="matrix(1,0,0,1,-160.5,37)">
+        <g id="Exuari-4" serif:id="Exuari 4">
+            <g id="Ship35" serif:id="Ship">
+                <g id="Nose18" serif:id="Nose" transform="matrix(1,0,0,1,322,3)">
+                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust18" serif:id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
+                    <path id="Exhaust-starboard18" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port18" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull27" serif:id="Hull">
+                    <g id="Beam-starboard4" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
+                        <path d="M329,16L347,16L348,17L354,17" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <path id="Beam-port4" serif:id="Beam port" d="M329,16L347,16L348,15L354,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <g id="Reinforced-hull2" serif:id="Reinforced hull" transform="matrix(1,0,0,1,27,0.961579)">
+                        <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Hardpoint-starboard1" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,-10,37)">
+                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                    </g>
+                    <g id="Hardpoint-port1" serif:id="Hardpoint port" transform="matrix(1,0,0,1,-10,1)">
+                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship36" serif:id="Ship" transform="matrix(1,0,0,1,-192.5,37)">
+        <g id="Exuari-3" serif:id="Exuari 3">
+            <g id="Ship37" serif:id="Ship">
+                <g id="Nose19" serif:id="Nose" transform="matrix(1,0,0,1,322,3)">
+                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust19" serif:id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
+                    <path id="Exhaust-starboard19" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port19" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull28" serif:id="Hull">
+                    <g id="Beam-starboard5" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
+                        <path d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <path id="Beam-port5" serif:id="Beam port" d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <g id="Reinforced-hull3" serif:id="Reinforced hull" transform="matrix(1,0,0,1,31,0.961579)">
+                        <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Weapon-starboard1" serif:id="Weapon starboard" transform="matrix(1,0,0,1,-6,0)">
+                        <g id="Weapon-starboard2" serif:id="Weapon starboard" transform="matrix(1,0,0,1,0,2)">
+                            <path d="M346,25L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Winglet-starboard4" serif:id="Winglet starboard" transform="matrix(1,0,0,-1,-58,37)">
+                            <path d="M401,8L403,8L405,4L401,2L396.829,11.894L401,8Z" style="fill:white;"/>
+                        </g>
+                        <g id="Hardpoint-starboard2" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,0,37)">
+                            <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        </g>
+                    </g>
+                    <g id="Weapon-port1" serif:id="Weapon port" transform="matrix(1,0,0,1,-6,0)">
+                        <g id="Weapon-port2" serif:id="Weapon port" transform="matrix(1,0,0,1,0,-16)">
+                            <path d="M346,27L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Winglet-port2" serif:id="Winglet port" transform="matrix(1,0,0,1,-58,1)">
+                            <path d="M401,8L403,8L405,4L401,2L396.829,11.894L401,8Z" style="fill:white;"/>
+                        </g>
+                        <g id="Hardpoint-port2" serif:id="Hardpoint port" transform="matrix(1,0,0,1,0,1)">
+                            <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Ship38" serif:id="Ship" transform="matrix(1,0,0,1,-224.5,37)">
+        <g id="Exuari-2" serif:id="Exuari 2">
+            <g id="Ship39" serif:id="Ship">
+                <g id="Nose20" serif:id="Nose" transform="matrix(1,0,0,1,322,3)">
+                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Exhaust20" serif:id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
+                    <path id="Exhaust-starboard20" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Exhaust-port20" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                </g>
+                <g id="Hull29" serif:id="Hull">
+                    <g id="Beam-starboard6" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
+                        <path d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <path id="Beam-port6" serif:id="Beam port" d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <g id="Reinforced-hull4" serif:id="Reinforced hull" transform="matrix(1,0,0,1,31,0.961579)">
+                        <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Weapon-starboard3" serif:id="Weapon starboard" transform="matrix(1,0,0,1,-6,0)">
+                        <g id="Weapon-starboard4" serif:id="Weapon starboard" transform="matrix(1,0,0,1,0,2)">
+                            <path d="M346,25L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hardpoint-starboard3" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,0,37)">
+                            <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        </g>
+                    </g>
+                    <g id="Weapon-port3" serif:id="Weapon port" transform="matrix(1,0,0,1,-6,0)">
+                        <g id="Weapon-port4" serif:id="Weapon port" transform="matrix(1,0,0,1,0,-16)">
+                            <path d="M346,27L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                        </g>
+                        <g id="Hardpoint-port3" serif:id="Hardpoint port" transform="matrix(1,0,0,1,0,1)">
+                            <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Exuari-1" serif:id="Exuari 1" transform="matrix(1,0,0,1,-256.5,37)">
+        <g id="Ship40" serif:id="Ship">
+            <g id="Nose21" serif:id="Nose" transform="matrix(1,0,0,1,322,3)">
+                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust21" serif:id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
+                <path id="Exhaust-starboard21" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port21" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull30" serif:id="Hull">
+                <g id="Beam-starboard7" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
+                    <path d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <path id="Beam-port7" serif:id="Beam port" d="M330,16L347,16" style="fill:none;stroke:white;stroke-width:3px;"/>
+                <g id="Reinforced-hull5" serif:id="Reinforced hull" transform="matrix(1,0,0,1,28,0.961579)">
+                    <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Weapon-starboard5" serif:id="Weapon starboard">
+                    <g id="Weapon-starboard6" serif:id="Weapon starboard" transform="matrix(1,0,0,1,0,2)">
+                        <path d="M346,25L347,26L354,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Hardpoint-starboard4" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,0,37)">
+                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                    </g>
+                </g>
+                <g id="Weapon-port5" serif:id="Weapon port">
+                    <g id="Weapon-port6" serif:id="Weapon port" transform="matrix(1,0,0,1,0,-16)">
+                        <path d="M346,27L347,26L354,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g id="Hardpoint-port4" serif:id="Hardpoint port" transform="matrix(1,0,0,1,0,1)">
+                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Dreadnought" transform="matrix(1,0,0,1,-256.5,38)">
+        <g id="Ship41" serif:id="Ship">
+            <g id="Nose22" serif:id="Nose" transform="matrix(1,0,0,1,290.5,2)">
+                <path d="M26,13L31,16L26,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust22" serif:id="Exhaust" transform="matrix(1,0,0,1,290,2)">
+                <path id="Exhaust-starboard22" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port22" serif:id="Exhaust port" d="M1,31L6.009,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull31" serif:id="Hull">
+                <path id="Angled-c-beam-fore" serif:id="Angled c beam fore" d="M322,8.5L316.495,8.5L315.505,9.5L315.505,26.508L316.489,27.492L322,27.492" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-center-starboard" serif:id="Beam center starboard" d="M316.009,21L296.009,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <path id="Beam-center-port" serif:id="Beam center port" d="M296.009,15L316,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <g id="Beam-starbaord" serif:id="Beam starbaord" transform="matrix(1,0,0,1,0,20)">
+                    <path d="M309,7.5L296.009,7.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <path id="Beam-port8" serif:id="Beam port" d="M309,8.5L296.009,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <g id="Narrow-beam-starboard" serif:id="Narrow beam starboard" transform="matrix(1,0,0,1,0,0.25)">
+                    <path d="M309,33L296.009,33" style="fill:none;stroke:white;stroke-width:1.5px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Narrow-beam-port" serif:id="Narrow beam port" transform="matrix(1,0,0,1,0,-30.25)">
+                    <path d="M309,33L296.009,33" style="fill:none;stroke:white;stroke-width:1.5px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Beam-aft7" serif:id="Beam aft" transform="matrix(1.06667,0,0,1.06667,-19.2432,-1.2)">
+                    <path d="M296.009,3L296.009,33" style="fill:none;stroke:white;stroke-width:2.81px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Reinforced-hull6" serif:id="Reinforced hull">
+                    <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Cruiser" transform="matrix(1,0,0,1,-255.995,38)">
+        <g id="Ship42" serif:id="Ship">
+            <g id="Nose23" serif:id="Nose" transform="matrix(1,0,0,1,258,2)">
+                <path d="M24.004,13L26,13L31,16L26,19L24,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust23" serif:id="Exhaust" transform="matrix(1,0,0,1,257.991,2)">
+                <path id="Exhaust-starboard23" serif:id="Exhaust starboard" d="M1,1C1,1 4.174,4.009 5.009,5.009C5.485,5.579 6.009,7 6.009,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port23" serif:id="Exhaust port" d="M1,31C1,31 4.007,28.167 5.009,27C5.495,26.434 6.013,25 6.013,25" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull32" serif:id="Hull">
+                <g transform="matrix(1.16596,0,0,1,141.579,0)">
+                    <path d="M105,27L111,9" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                    <path d="M105,9L111,27" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                </g>
+                <g transform="matrix(0.944444,0,0,1,14.7778,0)">
+                    <path d="M266,21L284,21" style="fill:none;stroke:white;stroke-width:3.08px;stroke-linecap:butt;"/>
+                </g>
+                <g transform="matrix(0.944444,0,0,1,14.7778,-6)">
+                    <path d="M266,21L284,21" style="fill:none;stroke:white;stroke-width:3.08px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Combat-satellite" serif:id="Combat satellite">
+        <g id="Hull33" serif:id="Hull">
+            <circle id="Body1" serif:id="Body" cx="242" cy="18" r="3" style="fill:url(#_Radial7);"/>
+            <g id="Panel-aft-port" serif:id="Panel aft port">
+                <path id="Panel1" serif:id="Panel" d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;stroke-linecap:butt;"/>
+                <g id="Beam" transform="matrix(-1,0,0,1,478,0)">
+                    <path d="M238,12L240,10" style="fill:none;stroke:white;stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+            <g id="Panel-fore-port" serif:id="Panel fore port">
+                <g id="Panel2" serif:id="Panel" transform="matrix(-1,0,0,1,484,0)">
+                    <path d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Beam1" serif:id="Beam" transform="matrix(1,0,0,1,6,0)">
+                    <path d="M238,12L240,10" style="fill:none;stroke:white;stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+            <g id="Panel-aft-starboard" serif:id="Panel aft starboard">
+                <g id="Panel3" serif:id="Panel" transform="matrix(1,0,0,-1,0,36)">
+                    <path d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Beam2" serif:id="Beam" transform="matrix(-1,0,0,-1,478,36.0764)">
+                    <path d="M238,12.076L240,10.076" style="fill:none;stroke:white;stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+            <g id="Panel-fore-starboard" serif:id="Panel fore starboard">
+                <g id="Panel4" serif:id="Panel" transform="matrix(-1,0,0,-1,484,36)">
+                    <path d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Beam3" serif:id="Beam" transform="matrix(1,0,0,-1,6,36.0764)">
+                    <path d="M238,12.076L240,10.076" style="fill:none;stroke:white;stroke-width:1px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Blockade-runner" serif:id="Blockade runner" transform="matrix(1,0,0,1,-0.00460725,0)">
+        <g id="Ship43" serif:id="Ship">
+            <g id="Nose24" serif:id="Nose" transform="matrix(1,0,0,1,194.009,2)">
+                <path d="M24.004,13L26,13L31,16L26,19L24,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust24" serif:id="Exhaust" transform="matrix(1,0,0,1,194,2)">
+                <path id="Exhaust-starboard24" serif:id="Exhaust starboard" d="M1,1L6,6L7,6" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port24" serif:id="Exhaust port" d="M1,31L5.989,26.011L7,26.011" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull34" serif:id="Hull">
+                <path d="M200,8L205,8L207,10L207,26L205,28L200,28" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                <g transform="matrix(1,0,0,1,13,0)">
+                    <path d="M200,8L205,8L207,10L207,26L205,28L200,28" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                </g>
+                <path d="M201,15L220,15L220,21L201,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Blip">
+        <circle id="Blip1" serif:id="Blip" cx="178" cy="18" r="16" style="fill:url(#_Radial8);"/>
+    </g>
+    <g id="Black-hole" serif:id="Black hole" transform="matrix(1,0,0,1,-2,2)">
+        <g id="Black-hole1" serif:id="Black hole">
+            <g id="Black" transform="matrix(1,0,0,1,2,-2)">
+                <circle cx="146" cy="18" r="16"/>
+            </g>
+            <g id="Hole" transform="matrix(1,0,0,1,2,-2)">
+                <clipPath id="_clip9">
+                    <path d="M146,2C154.831,2 162,9.169 162,18C162,26.831 154.831,34 146,34C137.169,34 130,26.831 130,18C130,9.169 137.169,2 146,2ZM146,10.333C141.769,10.333 138.333,13.769 138.333,18C138.333,22.231 141.769,25.667 146,25.667C150.231,25.667 153.667,22.231 153.667,18C153.667,13.769 150.231,10.333 146,10.333Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip9)">
+                    <use xlink:href="#_Image10" x="130" y="2" width="32px" height="32px"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Battleship" transform="matrix(1,0,0,1,-3.99539,1)">
+        <g id="Ship44" serif:id="Ship">
+            <g id="Nose25" serif:id="Nose" transform="matrix(1,0,0,1,102,1)">
+                <path d="M24.004,13L26,13L31,16L26,19L24,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust25" serif:id="Exhaust" transform="matrix(1,0,0,1,101.991,1)">
+                <path id="Exhaust-starboard25" serif:id="Exhaust starboard" d="M1,1C1,1 4.174,4.009 5.009,5.009C5.485,5.579 6.009,7 6.009,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port25" serif:id="Exhaust port" d="M1,31C1,31 4.007,28.167 5.009,27C5.495,26.434 6.013,25 6.013,25" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull35" serif:id="Hull" transform="matrix(1,0,0,1,4,-1)">
+                <g id="Reinforced-hull-shorter" serif:id="Reinforced hull shorter">
+                    <path d="M99,16L104,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <path d="M99,20L104.004,14.996" style="fill:none;stroke:white;stroke-width:3px;"/>
+                </g>
+                <g id="Reinforced-hull-short" serif:id="Reinforced hull short">
+                    <g transform="matrix(1,0,0,1,13,0)">
+                        <path d="M98,15L104,21" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,13,0)">
+                        <path d="M98,21L104.004,14.996" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    </g>
+                </g>
+                <g id="Reinforced-hull-long" serif:id="Reinforced hull long" transform="matrix(1.16596,0,0,1,-18.421,0)">
+                    <path d="M105,27L111,9" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                    <path d="M105,9L111,27" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                </g>
+                <g id="Reinforced-hull-long1" serif:id="Reinforced hull long" transform="matrix(1.16667,0,0,1,-5.5,0)">
+                    <path d="M105,27L111,9" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                    <path d="M105,9L111,27" style="fill:none;stroke:white;stroke-width:2.76px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Arrow" transform="matrix(1,0,0,1,1,0)">
+        <path id="Ship45" serif:id="Ship" d="M71,29L80,18L71,7L91,18L71,29Z" style="fill:white;"/>
+    </g>
+    <g id="Advanced-striker" serif:id="Advanced striker" transform="matrix(1,0,0,1,-32,1)">
+        <g id="Ship46" serif:id="Ship">
+            <g id="Nose26" serif:id="Nose" transform="matrix(1,0,0,1,66,1)">
+                <path d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust26" serif:id="Exhaust" transform="matrix(1,0,0,1,66,1)">
+                <path id="Exhaust-starboard26" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port26" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull36" serif:id="Hull">
+                <g id="Starboard-wing1" serif:id="Starboard wing" transform="matrix(1,0,0,-1,0,34)">
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M40,2L48,14.949" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M53,2L41.028,13.972L42.056,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M42.056,12.944L40,15L59,14.96" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M60,2L47,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+                <g id="Port-wing1" serif:id="Port wing">
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M40,2L48.024,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M53,2L41.028,13.972L42.056,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M42.056,12.944L40,15L59,14.96" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,32,-1)">
+                        <path d="M60,2L47,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Advanced-gunship" serif:id="Advanced gunship" transform="matrix(1,0,0,1,-30.9954,1)">
+        <g id="Ship47" serif:id="Ship">
+            <g id="Nose27" serif:id="Nose" transform="matrix(1,0,0,1,33,1)">
+                <path d="M26,13L31,16L26,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Exhaust27" serif:id="Exhaust" transform="matrix(1,0,0,1,32.9908,1)">
+                <path id="Exhaust-starboard27" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-port27" serif:id="Exhaust port" d="M1,31L6.009,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+            </g>
+            <g id="Hull37" serif:id="Hull">
+                <path id="C-beam-aft" serif:id="C beam aft" d="M51,7L39,7L39,27L51,27" style="fill:none;stroke:white;stroke-width:3px;"/>
+                <path id="Beam-aft8" serif:id="Beam aft" d="M46,7L46,27" style="fill:none;stroke:white;stroke-width:3px;"/>
+                <path id="Inner-beam-starboard" serif:id="Inner beam starboard" d="M46,20L59,20" style="fill:none;stroke:white;stroke-width:3px;"/>
+                <path id="Inner-beam-port" serif:id="Inner beam port" d="M46,14L59,14" style="fill:none;stroke:white;stroke-width:3px;"/>
+                <path id="Beam-fore1" serif:id="Beam fore" d="M59,9L59,25" style="fill:none;stroke:white;stroke-width:3px;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="33px" height="33px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFwUlEQVRYha3XaYidZxUH8N/cmSSTTKbJJOnbWq2NJmkpWg0oSjRu4FXRqnVDRFCkX6qgKKgoos03WzcEqRsudaMgVqoi1r6G4q7VDy4lSbWZpknTSR9rZpqZm2aSyR0/nPM6r9fJhj5wGebZzv/5n/M/57xDLmBUVXcYzW8UfcxjCKfQL6XuX8id8vC5DA9hAqvRwWvwdDwNv8KduAL7cTyBHc3f46XUi/8TiKrqjqDCjXgjVuCn2It9eCGuy/mTOIHT+Ce+it/iMKbPBuaMIKqqu1Yw8Kc0+h5B+UNpsI8NGMdFgqkbcSU+gTfgcnwLt+P+Uurj5wUi6a/w2rzso/gJHiilPn0W0B1sQxcfy3P/wLuxWTB2qJT66PmAuBTfwzPxAhxc7uBZwGxKMD/Gp/FLPAMfwAfxh1LqyTOCqKruGrwZn8UO/L2U+lRrfaXw/2qhkEUs4GQp9dzAvmcJNzwX67AVn8Nb8ce2a4ZaB4eED+/FTuxtACTVG3ENrsojM5akug97MNNItKq6FW4QbnhF2noVduGV2NPsHW5AjI1t2YTvJH0/KqU+lpeNYhPeLiL/1/iLkOT+BLAxXz41NrblZK832e/1JntjY1tm8M4EeK8I7K14Ge7u9SbnCN039G3Dc/AZlJwfFgp4B36PuzGJI6XUpZS6CDn+FfeIGBq3NPbhdSLA1yX4ryfgTcl+gMiDdwpFHGhpeqOQZo0/l1IfKaVeaGu+lLqfrB3BfdiWsaWUej5f38GKpH+/kPkOEVv/BjGWrnm4lPrxZGEsET+Ew6XUM60XqqrucPOSHMdz74iIk2ZMi3hYmbF1EF/ER4SbdTIrXoVH80Az1uFFIkc80jK+MuNkI8arqruqqrpDyc68cE9jEI7hFyJ/jJRS94S7V6YHdJKB5+MuzKWhoVxbwKkmSSXgjXl4Ntcn8vXy/2O5pwn6Hn6Ol2JVzp3Iv502iKvxt7ykmd+UoHotdlbk/pm8aB6zrVyymPPjlly9gAdF0VvRYmeoefBIvuJqfFtIsDG2HQfSUMPOaALrJ/2nB0B2cs9U60GjIu/8oMXArKg/qzHcEYXoEJ40gP4BPFn4rhnzlqhfbowkC4/lvbAWz8PP0jDBWF+6rPH7PlH9Gj+eThCX5yVashzHoDKaXLM2X3eytX8CTxTubphek/vm0B/Jhb14vfRZKfViVXUX89J28pnPgxOYrqpuMz8k1PTUvKuRecNM35ILiZQwlLb6nQRR4yVYP2BwDJdlbyFVMpeXXiFK/iUiFW8QqXm2ZexK3IwviGBuYmuN8EIfOpnFmqw22qJ5Gh8WNeMpzXwms2kRfI/l5QdFyZ9rFbD1ItlN4I5S6tmWKzbnHdMsBeIsduNtDf0puxmRZq+zVD1l6p5LVuZKqWfbpbmquuuShfeJnrS0GL4E1+OTDYgm0nt4l/DnN6uq21B6FF/D5zGbPt5XSr2QYP6jb0y2NosmeBe+q5VHMotuFu77jZRsu5/YgDtEc3pz001VVXcVLhOVsIObRNs2I+pF4+P1Ii7eghcnq1Ol1NMtG9vwqTz33lLqRwZBdESw7cGzsb+U+kRr7Qm4Fm8Ser8Hv7OU9ncKdR3Ah0S5n2/dv1Z0WbeLvLG3YXJQ62tFF/QN0Vvc11Cf681r14iC9HKhrrvEp8B8/qbarsqCtyMB7MKtTdP0XyDywMWisXl1vvD+9otyz7DIpKst1YuTy3XjGaTb8X3cgi+VUh9u7zlTy3+poPT6BPIwHj2fr6kBoNdgC76C2/DxUupDg3vP9vFTic77JtyKL4sac6ztogHwI6JcbxVSf79IgteKzn1qOVvn+gy8CBcniO34oXDVokhwp0RgrrHUUe0UwbtZxNYteLDp2C4YRALpJJBxkUtuEMG4KGrEKiHdJg3vFmVgt+g7j53LjecEMQBmtVDHaJ4dE5onZHs8gc0PBvP/BcQyoJoW0HKquJDxL954V2LfooJXAAAAAElFTkSuQmCC"/>
+        <image id="_Image2" width="33px" height="34px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAiCAYAAADRcLDBAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFi0lEQVRYha3Xa4xdVRUH8N+906FTB4vtyMZHFAYUtIhIjBEtmqAe0fDBGDBq0BpFMASJiQ/io2JjfKRR+WJ8BAkPE2P4gOGDxsBRwLQgGvABAbHUYQJ1pDu2Bdvb6XSmHT+sfZjDYaYP0pXc3Hv3a/33evzX2j3HQFKq+piHnOv5o93fOwpFr8CHcW75LMf1uA3/KWfNYVC+Z3Ou544JiJSqdfg2ZrANKwqAHvbieJyEIXwfU/gdhguYnTnXe18QiJSqFbgXs0XBTtyIJ7ALx+FMvANvxIvRxwnYiO34Hx4uQB/LuZ49YhApVeO4G4/hIK7E5FKHpFSN4hx8T1jqZHwMbytnPCqsNplzvfuwIFKqNuAS7MAtuC7nerCY8kX2vhzr8V6M4qvYjZXCnfdDzvWWJUGkVL0StTDl5/DQ0UZ7StUQ1uHrWC2sMo73iDi5HY/kXO9bCsSWAuCynOtHO3PDeH/ZM4xV+CtGcF87E1KqerhOuGMnzi/rLxYxshy/by441Nr4RWHCP+HWwWBivjX3rmKZi0WQbS2f8aJo+ejoaf3BYGIHDAYTRkdP2ypS+mQRF3/DW4Rr/o6XNut7RcnKgnALPpBzvacF4Cp8Gb/GNTnX2zsWGkXC5fhlzvWDrblL8TWMYSzneq7E3B48mXN9C5FScCcewRUdAOvwLVybc/2ZLgDIuR7kXD+Oa3BKStXy1vRtmBZsuqqMPVjGNpfL6xf/jZUFEy0APVyKB3Kuf9BVvoTsF+ZuAO4QbhvgvJSqfs71r0RMnYrXNJZYjcdxV4dmN2ItPn0k2guH3Ik3dKb+KG5+voVEWI334bUNiA/hGdzU7CoF6Rxsyrme0JGUqtUpVctTqlZ1poYwVti2kX+Jm7dBNMw6SKnqLROUuwz7WhuH8SbBgIvdemf5OZNSNZRzfaD8n8VTIoOmy9j2Au7VFmLwScHEO9Dv46yidKalZ60w2V0dCxy/CKbu2IEWAKKm9ERwNmm/pQDYheF+WdArmxtpAnV/R8FIF0HO9TOtv/PlMm2aX13G7xG3J2rJf8v5w/2Calq4pJE/CNOu7eg8XA0Z9Xyqf2s5e1MLxOk4UVTi2b5gshkL/iKKTsZH2hpyrqcLfT9PSkqPthQ17cC7RWW9uwXu9YLgXoK5vugZ9one4FllwmdrOuQDc0sAWYHtrSCFC4Q7ZgVJNbJGNEIn4MAyPCQ4/Wpc1Fq4GVeIsn5DC+A8ZguQUezJuZ7rdk8pVWfhhyKO1ntu9u0VFhvJuZ7v51zPiA6oYc9Grha9449Sql7VvXbO9WzO9dOH6CMvKgC24Gc51wdbc1PCA/9kIQ5uFCX3nS0l04K2h/HblKoTl1D2HEmpGk+pWo+ryt6Pa6V/StUleJFwz7Y2iOvxdny2c9s7BFe8DpMpVed2rNUFcJ5oij4v0v4r2NrJljWiBTi1KZa91gGfEL3BvTnXP2+N9/AlfFcE2Cb81ELDe5IoRp/E2SLtJvFR/KMdqMVCc6LGbMu5nuqC6At+mMDlJVbac2fgDrysHHRQEFxjzWVl/MfYgOm2BUrZvlJk0e051/c0c932bkRky5+xrnOLpq0bF677oEjrhwu4B8rv/e3+sbV3g6iw3xQuepb4Fuu2z8TNosn51GLRXw4dKlY4WD7zizXF5flwGd6MLyDnXOf2mqXeHWOC6zeLGLlhsXWHk5Sqa0U6rsU3CoCnuusOFekj+I1wz0r8BPcf7glQrLRRFKcDwoW/wFTO9a7F9hzJW/RCfEe8F1aI0j2JvwiXXSh6kr2iwO3GKeXsm0UWTR3qcXxEr/LyoDlddN1n49+CaKbK+BmiUXlCWO4+0czs7gbpCwbRAtMX5j1OPGDG8LQF0x8QaTrXKWTHDkQHUNMMLZoVRyP/B2eRKT3NWOZYAAAAAElFTkSuQmCC"/>
+        <radialGradient id="_Radial3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.42" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.12" style="stop-color:white;stop-opacity:1"/><stop offset="0.58" style="stop-color:rgb(69,69,69);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial5" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(16,0,0,16,1037,18)"><stop offset="0" style="stop-color:black;stop-opacity:1"/><stop offset="0.58" style="stop-color:black;stop-opacity:1"/><stop offset="0.7" style="stop-color:rgb(189,189,189);stop-opacity:1"/><stop offset="0.81" style="stop-color:white;stop-opacity:1"/><stop offset="0.9" style="stop-color:rgb(181,181,181);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial7" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.42" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial8" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(16,0,-0,16,178,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.42" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></radialGradient>
+        <image id="_Image10" width="32px" height="32px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>
