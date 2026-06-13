@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="All-shields" serif:id="All shields" transform="matrix(4.21021,0,0,4.21021,-3328.82,-633.137)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="All-shields" serif:id="All shields" transform="matrix(4.21021,0,0,4.21021,-3328.82,-633.137)">
         <g>
             <g transform="matrix(1.56596,0.0232327,-0.0115024,0.775297,-443.217,23.4101)">
                 <path d="M802.19,172.701C800.132,178.375 798.916,185.371 798.916,192.937C798.916,200.901 800.264,208.235 802.522,214.058L796.706,226.16C792.91,217.228 790.616,205.619 790.616,192.937C790.616,180.832 792.706,169.705 796.197,160.95L802.19,172.701Z"/>

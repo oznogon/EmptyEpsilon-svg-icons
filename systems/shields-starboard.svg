@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Starboard-shields" serif:id="Starboard shields" transform="matrix(4.2158,0,0,4.2158,-3333.43,-627.616)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Starboard-shields" serif:id="Starboard shields" transform="matrix(4.2158,0,0,4.2158,-3333.43,-627.616)">
         <g id="Starboard" transform="matrix(1.56596,0.0232327,-0.0115024,0.775297,-443.217,23.4101)">
             <g id="High">
                 <path id="Starboard1" serif:id="Starboard" d="M829.449,213.567C831.595,207.825 832.868,200.679 832.868,192.937C832.868,184.864 831.484,177.438 829.169,171.577L834.981,159.484C838.835,168.447 841.169,180.146 841.169,192.937C841.169,205.218 839.017,216.492 835.435,225.304L829.449,213.567Z"/>

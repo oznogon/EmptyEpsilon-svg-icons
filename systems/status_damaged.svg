@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Spanner" transform="matrix(5.23788,-5.23788,5.23788,5.23788,-4963.6,-279.438)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Spanner" transform="matrix(5.23788,-5.23788,5.23788,5.23788,-4963.6,-279.438)">
         <path d="M451.049,534.299L451.401,536.6C451.715,538.731 452.561,540.485 453.939,541.863C456.132,544.056 457.072,546.656 456.758,549.664C456.445,552.797 454.941,555.209 452.247,556.9L452.247,546.281L447.078,543.273L441.909,546.281L441.909,556.9C438.902,555.021 437.398,552.295 437.398,548.724C437.398,546.155 438.338,543.868 440.218,541.863C441.596,540.485 442.442,538.762 442.755,536.694L443.237,533.508L442.885,531.206C442.572,529.076 441.726,527.322 440.347,525.943C438.154,523.75 437.215,521.15 437.528,518.143C437.841,515.01 439.345,512.598 442.039,510.906L442.039,521.526L447.208,524.533L452.377,521.526L452.377,510.906C455.384,512.786 456.888,515.511 456.888,519.082C456.888,521.651 455.948,523.938 454.069,525.943C452.69,527.322 451.844,529.045 451.531,531.112L451.049,534.299Z"/>
     </g>
 </svg>

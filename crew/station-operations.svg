@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Operations" transform="matrix(4.16667,0,0,4.16667,-1691.67,-1691.66)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Operations" transform="matrix(4.16667,0,0,4.16667,-1691.67,-1691.66)">
         <g id="Orbits-right" serif:id="Orbits right" transform="matrix(1,0,0,1,0.0349278,0)">
             <path d="M475.5,447.61L475.2,448.016L475.5,448.39C495.515,467.772 477.506,477.146 456.33,468.321C456.102,468.226 455.403,467.944 455.25,467.75C454.095,466.285 455.125,465.505 456.588,465.639C458.522,465.817 461.672,466.699 462.475,466.745C487.105,468.165 473.81,451.27 472.85,451C470.54,450.86 451.57,467.59 452.5,460.75C473.901,447.758 474.951,449.229 456.179,437.693C455.084,437.02 453.07,436.204 452.5,435.27C451.09,428 472.64,445.64 472.64,445.64C482.376,433.45 471.909,431.102 463.801,430.645C461.5,430.516 454.764,431.233 454.4,431.07C452.75,430.33 455.464,427.865 456.473,427.661C478.137,423.299 495.57,427.69 475.5,447.61Z" style="fill-rule:nonzero;"/>
         </g>

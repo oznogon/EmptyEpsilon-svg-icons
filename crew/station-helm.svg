@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Helms" transform="matrix(4.24708,0,0,4.24708,-1184.07,-1727.7)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Helms" transform="matrix(4.24708,0,0,4.24708,-1184.07,-1727.7)">
         <g id="Starboard-wing" serif:id="Starboard wing" transform="matrix(1.79961,0,0,1.79961,34.7689,-674.895)">
             <path d="M180.112,604.982L164.229,609.305L165.921,613.346C169.868,616.04 171.841,619.737 171.841,624.436C171.841,624.937 171.779,625.689 171.654,626.692L173.439,630.827C174.316,628.759 174.755,626.629 174.755,624.436C174.755,621.491 174.003,618.766 172.499,616.26L174.285,615.696L176.541,611.936L170.526,613.534C169.523,612.532 168.709,611.811 168.082,611.373L177.856,608.741L180.112,604.982Z"/>
         </g>

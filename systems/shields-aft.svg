@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Aft-shields" serif:id="Aft shields" transform="matrix(4.16667,0,0,4.16667,-3292.58,-618.338)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Aft-shields" serif:id="Aft shields" transform="matrix(4.16667,0,0,4.16667,-3292.58,-618.338)">
         <g id="Aft" transform="matrix(1.56596,0.0232327,-0.0115024,0.775297,-443.217,23.4101)">
             <g id="High">
                 <path id="Aft1" serif:id="Aft" d="M832.306,231.751C827.888,239.381 822.155,243.991 815.892,243.991C809.829,243.991 804.261,239.669 799.903,232.468L805.715,220.375C808.552,224.676 812.076,227.225 815.892,227.225C819.818,227.225 823.435,224.527 826.312,219.999L832.306,231.751Z"/>

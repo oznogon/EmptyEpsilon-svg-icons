@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Comms-only" serif:id="Comms only" transform="matrix(4.16667,0,0,4.16667,-2758.33,-1691.66)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Comms-only" serif:id="Comms only" transform="matrix(4.16667,0,0,4.16667,-2758.33,-1691.66)">
         <g id="Left-outer" serif:id="Left outer" transform="matrix(1.86673,0,0,1.86673,408.13,-618.882)">
             <path d="M146.654,579.231C145.151,576.913 144.399,574.344 144.399,571.524C144.399,568.705 145.166,566.136 146.701,563.818C148.236,561.5 150.226,559.808 152.669,558.743L151.635,556.581C148.753,557.897 146.435,559.902 144.681,562.596C142.926,565.29 142.049,568.266 142.049,571.524C142.049,574.782 142.926,577.758 144.681,580.453C146.435,583.147 148.753,585.152 151.635,586.467L152.669,584.306C150.163,583.178 148.158,581.486 146.654,579.231Z"/>
         </g>

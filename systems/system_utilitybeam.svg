@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Tractor-beam" serif:id="Tractor beam" transform="matrix(3.89786,0,0,3.89786,-583.975,-3069.94)">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" fill="white" width="100%" height="100%" viewBox="-52.5 -52.5 455 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+   <sodipodi:namedview pagecolor="#000000" />
+<g id="Tractor-beam" serif:id="Tractor beam" transform="matrix(3.89786,0,0,3.89786,-583.975,-3069.94)">
         <path id="Beam" d="M226.543,794.527C246.334,791.017 227.98,826.54 227.98,832C229.04,838.47 237.255,859.967 237,866.3C236.85,870.024 229.803,871.626 226.45,870C217.544,865.682 198.834,849.129 183.561,840.391C180.809,838.817 177.983,837.342 175.06,836L152,836L152,828L175.06,828L183.25,824.35C183.25,824.35 224.053,794.968 226.543,794.527ZM228.15,797C225.359,797.54 197.14,819.21 195.07,820.75C178.42,833.21 178.59,830.84 195.08,843.25C197.17,844.83 221.663,863.575 228.15,867C230.116,868.038 234.19,866.015 234,863.8C233.499,857.971 225.427,837.481 225.145,832.024C224.847,826.255 242.114,794.299 228.15,797Z" style="fill-rule:nonzero;"/>
         <path id="Ship" d="M185.995,832.004C185.994,831.913 231.08,799.799 231.08,799.799C231.08,799.799 220.3,830.84 220.3,831.99L231.022,864.159C231.022,864.159 185.995,832.103 185.995,832.004Z" style="fill-rule:nonzero;"/>
     </g>
