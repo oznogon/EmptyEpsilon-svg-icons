@@ -4,11 +4,11 @@
     <g id="Battleship" transform="matrix(1,0,0,1,-100.287,0.704164)">
         <g id="Ship">
             <g id="Nose" transform="matrix(1,0,0,1,102,1)">
-                <path d="M24.886,13L25.882,13L30.882,16L25.882,19L24.882,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path d="M24.886,13L25.882,13L30.882,16L25.882,19L24.882,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Exhaust" transform="matrix(1,0,0,1,101.991,1)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L5.332,5.257L6.044,7.082" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L5.242,27L6.013,25" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L5.332,5.257L6.044,7.082" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L5.242,27L6.013,25" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Hull" transform="matrix(1,0,0,1,4,-1)">
                 <g id="Reinforced-hull-shorter" serif:id="Reinforced hull shorter">

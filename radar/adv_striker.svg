@@ -4,11 +4,11 @@
     <g id="Advanced-striker" serif:id="Advanced striker" transform="matrix(1,0,0,1,-64.2324,1.70416)">
         <g id="Ship">
             <g id="Nose" transform="matrix(1,0,0,1,66,1)">
-                <path d="M24.937,13L25.937,13L30.937,16L25.937,19L24.937,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path d="M24.937,13L25.937,13L30.937,16L25.937,19L24.937,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Exhaust" transform="matrix(1,0,0,1,66,1)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.937,1L5.937,6" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.937,31L5.937,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.937,1L5.937,6" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.937,31L5.937,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Hull">
                 <g id="Starboard-wing" serif:id="Starboard wing" transform="matrix(1,0,0,-1,0,34)">

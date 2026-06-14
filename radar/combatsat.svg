@@ -1,42 +1,152 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
-    <g id="Combat-satellite" serif:id="Combat satellite" transform="matrix(1,0,0,1,-226,-2)">
-        <g id="Hull">
-            <circle id="Body" cx="242" cy="18" r="3" style="fill:url(#_Radial1);"/>
-            <g id="Panel-aft-port" serif:id="Panel aft port">
-                <path id="Panel" d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;"/>
-                <g id="Beam" transform="matrix(-1,0,0,1,478,0)">
-                    <path d="M238,12L240,10" style="fill:none;stroke:white;stroke-width:1px;"/>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 32 32"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;"
+   id="svg9"
+   sodipodi:docname="combatsat.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="26.75"
+   inkscape:cx="16"
+   inkscape:cy="16"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Panel-fore-starboard" />
+    <g
+   id="Combat-satellite"
+   serif:id="Combat satellite"
+   transform="matrix(1,0,0,1,-226,-2)">
+        <g
+   id="Hull">
+            <circle
+   id="Body"
+   cx="242"
+   cy="18"
+   r="3"
+   style="fill:url(#_Radial1);" />
+            <g
+   id="Panel-aft-port"
+   serif:id="Panel aft port">
+                <path
+   id="Panel"
+   d="M238,13L238,12L240.076,9.924L241,9.924"
+   style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-opacity:0.5" />
+                <g
+   id="Beam"
+   transform="matrix(-1,0,0,1,478,0)">
+                    <path
+   d="M238,12L240,10"
+   style="fill:none;stroke:white;stroke-width:1px;"
+   id="path1" />
                 </g>
             </g>
-            <g id="Panel-fore-port" serif:id="Panel fore port">
-                <g id="Panel1" serif:id="Panel" transform="matrix(-1,0,0,1,484,0)">
-                    <path d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;"/>
+            <g
+   id="Panel-fore-port"
+   serif:id="Panel fore port">
+                <g
+   id="Panel1"
+   serif:id="Panel"
+   transform="matrix(-1,0,0,1,484,0)"
+   style="stroke:#ffffff;stroke-opacity:0.5">
+                    <path
+   d="M238,13L238,12L240.076,9.924L241,9.924"
+   style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-opacity:0.5"
+   id="path2" />
                 </g>
-                <g id="Beam1" serif:id="Beam" transform="matrix(1,0,0,1,6,0)">
-                    <path d="M238,12L240,10" style="fill:none;stroke:white;stroke-width:1px;"/>
+                <g
+   id="Beam1"
+   serif:id="Beam"
+   transform="matrix(1,0,0,1,6,0)">
+                    <path
+   d="M238,12L240,10"
+   style="fill:none;stroke:white;stroke-width:1px;"
+   id="path3" />
                 </g>
             </g>
-            <g id="Panel-aft-starboard" serif:id="Panel aft starboard">
-                <g id="Panel2" serif:id="Panel" transform="matrix(1,0,0,-1,0,36)">
-                    <path d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;"/>
+            <g
+   id="Panel-aft-starboard"
+   serif:id="Panel aft starboard">
+                <g
+   id="Panel2"
+   serif:id="Panel"
+   transform="matrix(1,0,0,-1,0,36)"
+   style="stroke:#ffffff;stroke-opacity:0.5">
+                    <path
+   d="M238,13L238,12L240.076,9.924L241,9.924"
+   style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-opacity:0.5"
+   id="path4" />
                 </g>
-                <g id="Beam2" serif:id="Beam" transform="matrix(-1,0,0,-1,478,36.0764)">
-                    <path d="M238,12.076L240,10.076" style="fill:none;stroke:white;stroke-width:1px;"/>
+                <g
+   id="Beam2"
+   serif:id="Beam"
+   transform="matrix(-1,0,0,-1,478,36.0764)">
+                    <path
+   d="M238,12.076L240,10.076"
+   style="fill:none;stroke:white;stroke-width:1px;"
+   id="path5" />
                 </g>
             </g>
-            <g id="Panel-fore-starboard" serif:id="Panel fore starboard">
-                <g id="Panel3" serif:id="Panel" transform="matrix(-1,0,0,-1,484,36)">
-                    <path d="M238,13L238,12L240.076,9.924L241,9.924" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;"/>
+            <g
+   id="Panel-fore-starboard"
+   serif:id="Panel fore starboard">
+                <g
+   id="Panel3"
+   serif:id="Panel"
+   transform="matrix(-1,0,0,-1,484,36)"
+   style="stroke:#ffffff;stroke-opacity:0.5">
+                    <path
+   d="M238,13L238,12L240.076,9.924L241,9.924"
+   style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-opacity:0.5"
+   id="path6" />
                 </g>
-                <g id="Beam3" serif:id="Beam" transform="matrix(1,0,0,-1,6,36.0764)">
-                    <path d="M238,12.076L240,10.076" style="fill:none;stroke:white;stroke-width:1px;"/>
+                <g
+   id="Beam3"
+   serif:id="Beam"
+   transform="matrix(1,0,0,-1,6,36.0764)">
+                    <path
+   d="M238,12.076L240,10.076"
+   style="fill:none;stroke:white;stroke-width:1px;"
+   id="path7" />
                 </g>
             </g>
         </g>
     </g>
-    <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.42" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></radialGradient>
+    <defs
+   id="defs9">
+        <radialGradient
+   id="_Radial1"
+   cx="0"
+   cy="0"
+   r="1"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3,0,0,3,242,18)"><stop
+     offset="0"
+     style="stop-color:white;stop-opacity:1"
+     id="stop7" /><stop
+     offset="0.42"
+     style="stop-color:white;stop-opacity:1"
+     id="stop8" /><stop
+     offset="1"
+     style="stop-color:black;stop-opacity:0"
+     id="stop9" /></radialGradient>
     </defs>
 </svg>

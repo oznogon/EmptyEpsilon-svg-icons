@@ -6,11 +6,11 @@
             <g id="Striker">
                 <g id="Ship1" serif:id="Ship">
                     <g id="Nose" transform="matrix(1,0,0,1,66,1)">
-                        <path d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
                     </g>
                     <g id="Exhaust" transform="matrix(1,0,0,1,66,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6,6" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6,6" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
                     </g>
                     <g id="Hull">
                         <g id="Starboard-wing" serif:id="Starboard wing" transform="matrix(1,0,0,-1,0,34)">

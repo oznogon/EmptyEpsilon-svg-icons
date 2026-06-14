@@ -4,11 +4,11 @@
     <g id="Cruiser" transform="matrix(1,0,0,1,-256.287,-0.295836)">
         <g id="Ship">
             <g id="Nose" transform="matrix(1,0,0,1,258,2)">
-                <path d="M24.004,13L26,13L31,16L26,19L24,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path d="M24.004,13L26,13L31,16L26,19L24,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Exhaust" transform="matrix(1,0,0,1,257.991,2)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L5.231,5L6.009,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L5.245,27L6.013,25" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L5.231,5L6.009,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L5.245,27L6.013,25" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Hull">
                 <g transform="matrix(1.16596,0,0,1,141.579,0)">

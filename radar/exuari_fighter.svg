@@ -4,11 +4,11 @@
     <g id="Exuari-fighter" serif:id="Exuari fighter" transform="matrix(1,0,0,1,-480.296,-0.295836)">
         <g id="Ship">
             <g id="Nose" transform="matrix(1,0,0,1,482,2)">
-                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Exhaust" transform="matrix(1,0,0,1,482.495,1)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
             </g>
             <g id="Hull">
                 <path id="Beam-aft" serif:id="Beam aft" d="M495,11L499.051,15.051L499.051,21L495.047,25.004" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>

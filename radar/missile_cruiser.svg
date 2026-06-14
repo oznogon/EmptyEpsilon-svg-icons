@@ -5,10 +5,10 @@
         <g id="Ship" transform="matrix(1,0,0,1,1.70416,1.70416)">
             <g id="Missile-cruiser" serif:id="Missile cruiser">
                 <g id="Ship1" serif:id="Ship">
-                    <path id="Nose" d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                    <path id="Nose" d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
                     <g id="Exhaust">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(128,128,128);stroke-width:3px;"/>
+                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
                     </g>
                     <g id="Hull">
                         <g id="Beam-aft" serif:id="Beam aft" transform="matrix(1,0,0,1,0.490785,0)">

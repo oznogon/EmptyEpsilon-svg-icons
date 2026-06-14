@@ -1,48 +1,150 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 117 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Hull" transform="matrix(0.994439,0,0,1,-572.082,0.704164)">
-            <g id="Huge-station" serif:id="Huge station">
-                <g id="Hull1" serif:id="Hull">
-                    <clipPath id="_clip1">
-                        <ellipse cx="594.089" cy="18" rx="16.089" ry="16"/>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 117 117"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;"
+   id="svg17"
+   sodipodi:docname="hugestation.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs17" /><sodipodi:namedview
+   id="namedview17"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="7.3162393"
+   inkscape:cx="58.5"
+   inkscape:cy="58.5"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g8" />
+    <g
+   transform="matrix(3.125,0,0,3.125,0,0)"
+   id="g17">
+        <g
+   id="Hull"
+   transform="matrix(0.994439,0,0,1,-572.082,0.704164)">
+            <g
+   id="Huge-station"
+   serif:id="Huge station">
+                <g
+   id="Hull1"
+   serif:id="Hull">
+                    <clipPath
+   id="_clip1">
+                        <ellipse
+   cx="594.089"
+   cy="18"
+   rx="16.089"
+   ry="16"
+   id="ellipse1" />
                     </clipPath>
-                    <g clip-path="url(#_clip1)">
-                        <g>
-                            <path d="M584.034,21.484L584.034,34" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            <g transform="matrix(-1.00559,0,0,1,1172.3,0)">
-                                <path d="M581,21.5L588,14.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <g
+   clip-path="url(#_clip1)"
+   id="g16">
+                        <g
+   id="g8">
+                            <path
+   d="M584.034,21.484L584.034,34"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path1" />
+                            <g
+   transform="matrix(-1.00559,0,0,1,1172.3,0)"
+   id="g2">
+                                <path
+   d="M581,21.5L588,14.5"
+   style="fill:none;stroke:white;stroke-width:3px;"
+   id="path2" />
                             </g>
-                            <g transform="matrix(-1.00559,0,0,1,1192.42,0)">
-                                <path d="M581,21.5L588,14.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                            <g
+   transform="matrix(-1.00559,0,0,1,1192.42,0)"
+   id="g3">
+                                <path
+   d="M581,21.5L588,14.5"
+   style="fill:none;stroke:white;stroke-width:3px;"
+   id="path3" />
                             </g>
-                            <g transform="matrix(6.15748e-17,1,-1.00559,6.12323e-17,612.693,-556.5)">
-                                <path d="M581,21.5L588,14.5" style="fill:none;stroke:white;stroke-width:3px;"/>
+                            
+                            <path
+   d="M591,2L591,14.5L578,14.5"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path5" />
+                            <g
+   transform="matrix(1,0,0,1,6.44211,0)"
+   id="g6">
+                                <path
+   d="M590.664,2L590.664,15L584.516,21.484L584.516,34"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path6" />
                             </g>
-                            <path d="M591,2L591,14.5L578,14.5" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            <g transform="matrix(1,0,0,1,6.44211,0)">
-                                <path d="M590.664,2L590.664,15L584.516,21.484L584.516,34" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            </g>
-                            <g transform="matrix(1,0,0,1,12.8421,0)">
-                                <path d="M591,2L591,15" style="fill:none;stroke:white;stroke-width:3.01px;"/>
+                            <g
+   transform="matrix(1,0,0,1,12.8421,0)"
+   id="g7">
+                                <path
+   d="M591,2L591,15"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path7" />
                             </g>
                         </g>
-                        <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,576.179,612.179)">
-                            <path d="M590.679,2L590.679,15L583.179,21.484L583.179,34" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            <g transform="matrix(1,0,0,1,6.44211,0)">
-                                <path d="M571.737,20.927L584.237,20.927L584.237,34" style="fill:none;stroke:white;stroke-width:3.01px;"/>
+                        <g
+   transform="matrix(6.12323e-17,-1,1,6.12323e-17,576.179,612.179)"
+   id="g11">
+                            <path
+   d="M590.679,2L590.679,15L583.179,21.484L583.179,34"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path8" />
+                            <g
+   transform="matrix(1,0,0,1,6.44211,0)"
+   id="g9">
+                                <path
+   d="M571.737,20.927L584.237,20.927L584.237,34"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path9" />
                             </g>
-                            <g transform="matrix(1,0,0,1,12.8421,0)">
-                                <path d="M591.837,2L591.837,15L584.837,21.484L584.837,34" style="fill:none;stroke:white;stroke-width:3.01px;"/>
+                            <g
+   transform="matrix(1,0,0,1,12.8421,0)"
+   id="g10">
+                                <path
+   d="M591.837,2L591.837,15L584.837,21.484L584.837,34"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path10" />
                             </g>
                         </g>
-                        <g>
-                            <path d="M584.034,2L584.034,14.737" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            <path d="M578.179,29L591,29" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            <path d="M604,21L604,34" style="fill:none;stroke:white;stroke-width:3.01px;"/>
-                            <g transform="matrix(1,0,0,1,0,0.131581)">
-                                <path d="M597.442,7.368L608,7.368" style="fill:none;stroke:white;stroke-width:3.01px;"/>
+                        <g
+   id="g15">
+                            <path
+   d="M584.034,2L584.034,14.737"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path11" />
+                            <path
+   d="M578.179,29L591,29"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path12" />
+                            <path
+   d="M604,21L604,34"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path13" />
+                            <g
+   transform="matrix(1,0,0,1,0,0.131581)"
+   id="g14">
+                                <path
+   d="M597.442,7.368L608,7.368"
+   style="fill:none;stroke:white;stroke-width:3.01px;"
+   id="path14" />
                             </g>
                         </g>
                     </g>
