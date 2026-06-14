@@ -1,34 +1,127 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 253 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Parts-depot" serif:id="Parts depot" transform="matrix(1,0,0,1,-7.29584,-204)">
-            <path d="M88,204L88,244L48,244L48,204L88,204ZM87,205L49,205L49,243L87,243L87,205Z" style="fill:rgb(64,64,64);"/>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 253 125"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;"
+   id="svg4"
+   sodipodi:docname="parts.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs4">
+    </defs><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="6.7193676"
+   inkscape:cx="163.11059"
+   inkscape:cy="60.571176"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4" />
+    <g
+   id="Parts-depot"
+   serif:id="Parts depot"
+   transform="matrix(3.125,0,0,3.125,-22.7995,-637.5)">
+            <path
+   d="m 88,204 v 40 H 48 v -40 z m -1,1 H 49 v 38 h 38 z"
+   style="fill:#404040"
+   id="path1"
+   sodipodi:insensitive="true"
+   inkscape:label="border" />
+        </g><g
+   id="Noses"
+   transform="matrix(3.125,0,0,3.125,-3485.25,6.25)">
+            <g
+   id="Nose-back-straight--C-open-"
+   serif:id="Nose back straight (C open)"
+   transform="translate(1117,2)"
+   inkscape:label="Nose-back-straight-C-open">
+                <path
+   d="m 25,13 h 1 l 5,3 -5,3 h -1"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5"
+   id="path2" />
+            </g>
+            <g
+   id="Nose-back-flared--C-closed-"
+   serif:id="Nose back flared (C closed)"
+   transform="translate(1117,2)"
+   inkscape:label="Nose-back-flared-C-closed">
+                <path
+   d="m 25,12 1,1 5,3 -5,3 -1,1"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5"
+   id="path3" />
+            </g>
+            <g
+   id="Nose-plain"
+   serif:id="Nose plain"
+   transform="translate(1117,2)">
+                <path
+   d="m 27,13 4,3 -4,3"
+   style="fill:none;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.5"
+   id="path4" />
+            </g>
+        </g><g
+   id="Exhausts"
+   transform="matrix(3.125,0,0,3.125,2.2426438,-612.5)">
+            <g
+   id="Exhaust-standard"
+   serif:id="Exhaust standard"
+   transform="translate(1,200)">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M 1,1 6.009,6.009"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M 1,31 6,26"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5" />
+            </g>
+            <g
+   id="Exhaust-cruiser"
+   serif:id="Exhaust cruiser"
+   transform="translate(0.986517,200)">
+                <path
+   id="Exhaust-starboard1"
+   serif:id="Exhaust starboard"
+   d="m 1,1 c 0,0 3.174,3.009 4.009,4.009 0.476,0.57 1,1.991 1,1.991"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5" />
+                <path
+   id="Exhaust-port1"
+   serif:id="Exhaust port"
+   d="m 1,31 c 0,0 3.007,-2.833 4.009,-4 0.486,-0.566 1.004,-2 1.004,-2"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5" />
+            </g>
+            <g
+   id="Exhaust-Ktlitan-queen"
+   serif:id="Exhaust Ktlitan queen"
+   transform="translate(1.49539,199)">
+                <path
+   id="Exhaust-starboard2"
+   serif:id="Exhaust starboard"
+   d="m 0.505,2 5,5.5 h 2"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5" />
+                <path
+   id="Exhaust-port2"
+   serif:id="Exhaust port"
+   d="m 0.505,32 5,-5.5 h 2"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-opacity:0.5" />
+            </g>
         </g>
-        <g id="Noses" transform="matrix(1,0,0,1,-1115.28,2)">
-            <g id="Nose-back-straight--C-open-" serif:id="Nose back straight (C open)" transform="matrix(1,0,0,1,1117,2)">
-                <path d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Nose-back-flared--C-closed-" serif:id="Nose back flared (C closed)" transform="matrix(1,0,0,1,1117,2)">
-                <path d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Nose-plain" serif:id="Nose plain" transform="matrix(1,0,0,1,1117,2)">
-                <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:2px;"/>
-            </g>
-        </g>
-        <g id="Exhausts" transform="matrix(1,0,0,1,0.717646,-196)">
-            <g id="Exhaust-standard" serif:id="Exhaust standard" transform="matrix(1,0,0,1,1,200)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Exhaust-cruiser" serif:id="Exhaust cruiser" transform="matrix(1,0,0,1,0.986517,200)">
-                <path id="Exhaust-starboard1" serif:id="Exhaust starboard" d="M1,1C1,1 4.174,4.009 5.009,5.009C5.485,5.579 6.009,7 6.009,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                <path id="Exhaust-port1" serif:id="Exhaust port" d="M1,31C1,31 4.007,28.167 5.009,27C5.495,26.434 6.013,25 6.013,25" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Exhaust-Ktlitan-queen" serif:id="Exhaust Ktlitan queen" transform="matrix(1,0,0,1,1.49539,199)">
-                <path id="Exhaust-starboard2" serif:id="Exhaust starboard" d="M0.505,2L5.505,7.5L7.505,7.5" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                <path id="Exhaust-port2" serif:id="Exhaust port" d="M0.505,32L5.505,26.5L7.505,26.5" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-        </g>
-    </g>
 </svg>
