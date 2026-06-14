@@ -1,22 +1,118 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Hull" transform="matrix(1,0,0,1,-226,-2)">
-            <g id="Probe">
-                <g id="Hull1" serif:id="Hull">
-                    <g id="Body" transform="matrix(2.66667,0,0,2.66667,-403.333,-30)">
-                        <circle cx="242" cy="18" r="3" style="fill:url(#_Radial1);"/>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg11"
+   sodipodi:docname="probe.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="probe.png"
+   inkscape:export-xdpi="117.166"
+   inkscape:export-ydpi="117.166"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="4.254175"
+   inkscape:cx="21.625815"
+   inkscape:cy="56.180106"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg11"
+   showgrid="false" />
+    <g
+   transform="matrix(3.1286698,0,0,3.1286698,-14.07868,-14.075349)"
+   id="g2">
+        <g
+   id="Hull"
+   transform="translate(-226,-2)">
+            <g
+   id="Probe">
+                <g
+   id="Hull1"
+   serif:id="Hull">
+                    <g
+   id="Body"
+   transform="matrix(2.66667,0,0,2.66667,-403.333,-30)">
+                        <circle
+   cx="243.67999"
+   cy="19.679998"
+   style="fill:url(#_Radial1);stroke-width:1.88778"
+   id="circle1"
+   r="6.2926025" />
                     </g>
-                    <g transform="matrix(1,0,0,1,-795,0)">
-                        <path d="M1037,2C1045.83,2 1053,9.169 1053,18C1053,26.831 1045.83,34 1037,34C1028.17,34 1021,26.831 1021,18C1021,9.169 1028.17,2 1037,2ZM1037,9.5C1032.31,9.5 1028.5,13.309 1028.5,18C1028.5,22.691 1032.31,26.5 1037,26.5C1041.69,26.5 1045.5,22.691 1045.5,18C1045.5,13.309 1041.69,9.5 1037,9.5Z" style="fill:url(#_Radial2);"/>
+                    <g
+   transform="translate(-790.52,4.48)"
+   id="g1">
+                        <path
+   d="m 1037,2 c 8.83,0 16,7.169 16,16 0,8.831 -7.17,16 -16,16 -8.83,0 -16,-7.169 -16,-16 0,-8.831 7.17,-16 16,-16 z m 0,7.5 c -4.69,0 -8.5,3.809 -8.5,8.5 0,4.691 3.81,8.5 8.5,8.5 4.69,0 8.5,-3.809 8.5,-8.5 0,-4.691 -3.81,-8.5 -8.5,-8.5 z"
+   style="fill:url(#_Radial2)"
+   id="path1" />
                     </g>
                 </g>
             </g>
         </g>
     </g>
-    <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.12" style="stop-color:white;stop-opacity:1"/><stop offset="0.58" style="stop-color:rgb(69,69,69);stop-opacity:0.27"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(16,0,0,16,1037,18)"><stop offset="0" style="stop-color:black;stop-opacity:0"/><stop offset="0.58" style="stop-color:black;stop-opacity:0"/><stop offset="0.7" style="stop-color:rgb(189,189,189);stop-opacity:0.74"/><stop offset="0.81" style="stop-color:white;stop-opacity:1"/><stop offset="0.9" style="stop-color:rgb(181,181,181);stop-opacity:0.71"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></radialGradient>
+    <defs
+   id="defs11">
+        <radialGradient
+   id="_Radial1"
+   cx="0"
+   cy="0"
+   r="1"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(5.6633422,0,0,5.6633422,243.68001,19.679998)"><stop
+     offset="0"
+     style="stop-color:white;stop-opacity:1"
+     id="stop2" /><stop
+     offset="0.12"
+     style="stop-color:white;stop-opacity:1"
+     id="stop3" /><stop
+     offset="0.58"
+     style="stop-color:rgb(69,69,69);stop-opacity:0.27"
+     id="stop4" /><stop
+     offset="1"
+     style="stop-color:black;stop-opacity:0"
+     id="stop5" /></radialGradient>
+        <radialGradient
+   id="_Radial2"
+   cx="0"
+   cy="0"
+   r="1"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(16,0,0,16,1037,18)"><stop
+     offset="0"
+     style="stop-color:black;stop-opacity:0"
+     id="stop6" /><stop
+     offset="0.58"
+     style="stop-color:black;stop-opacity:0"
+     id="stop7" /><stop
+     offset="0.7"
+     style="stop-color:rgb(189,189,189);stop-opacity:0.74"
+     id="stop8" /><stop
+     offset="0.81"
+     style="stop-color:white;stop-opacity:1"
+     id="stop9" /><stop
+     offset="0.9"
+     style="stop-color:rgb(181,181,181);stop-opacity:0.71"
+     id="stop10" /><stop
+     offset="1"
+     style="stop-color:black;stop-opacity:0"
+     id="stop11" /></radialGradient>
     </defs>
 </svg>
