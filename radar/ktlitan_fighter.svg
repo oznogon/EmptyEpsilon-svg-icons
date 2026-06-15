@@ -1,27 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-0.295836)">
-            <g id="Ktlitan-fighter" serif:id="Ktlitan fighter">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 111.30435 111.30435"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg3"
+   sodipodi:docname="ktlitan_fighter.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs3">
+            
+        
+        
+    
+                    
+                    
+                    
+                
+                            
+                        
+                            
+                        </defs><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.4718197"
+   inkscape:cx="88.598695"
+   inkscape:cy="96.48762"
+   inkscape:window-width="1024"
+   inkscape:window-height="1186"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ktlitan-fighter" />
+    <g
+   id="Ktlitan-fighter"
+   serif:id="Ktlitan fighter"
+   transform="matrix(3.125,0,0,3.125,-1600.925,-0.9244875)">
+                <path
+   d="m 541.79166,14.7654 3.33913,3.339135 -3.33913,3.339126"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:2.78261;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-9"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Nose"
+   transform="translate(3.9072626e-6)" /><g
+   id="Exhaust"
+   transform="matrix(1.0401475,0,0,1.0401475,513.46233,1.462172)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;stroke:#ffffff;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692645,6.3692576"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull">
+                        <path
+   d="m 521.75687,22.278445 1.66957,-1.669565 h 3.33913 l 6.67826,-2.504348 -6.67826,-2.504348 h -3.33913 l -1.66957,-1.669565"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-linecap:butt"
+   id="path2"
+   sodipodi:nodetypes="ccccccc"
+   inkscape:label="Ktlitan-fighter-center-frame" />
+                        <path
+   d="m 541.79165,8.0871405 h -15.02608 l -6.67827,6.6782605 v 6.678261 l 6.67827,6.678261 h 15.02608"
+   style="fill:none;stroke:#ffffff;stroke-width:2.78261;stroke-linecap:butt;stroke-dasharray:none"
+   id="path3"
+   sodipodi:nodetypes="cccccc"
+   inkscape:label="C-bar-wide-long" />
                     </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull">
-                        <g id="Central-frame" serif:id="Central frame" transform="matrix(1,0,0,1,-224.01,0)">
-                            <path d="M746.021,21.965L748,20L751,20L757,18L751,15.965L748,15.965L746.021,14" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="C-frame" serif:id="C frame" transform="matrix(1,0,0,1,-224.01,0)">
-                            <path d="M763.546,8.503L750.52,8.503L745.5,13.5L746,14L744.526,15.546L744.526,20.47L746,22L745.509,22.477L751.012,27.981L763.547,27.981" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                    </g>
-                </g>
             </g>
-        </g>
-    </g>
 </svg>

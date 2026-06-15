@@ -1,37 +1,113 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 114 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-0.295836)">
-            <g id="Ktlitan-feeder" serif:id="Ktlitan feeder">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull">
-                        <g id="Starboard">
-                            <g id="Winglet-aft-starboard" serif:id="Winglet aft starboard" transform="matrix(1,0,0,-1,-192,36)">
-                                <path d="M719,8.5L719,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                            <g id="Hull-starboard" serif:id="Hull starboard" transform="matrix(1,0,0,-1,-160,36)">
-                                <path d="M680.5,14.989L693,14.989L700,8.5L706,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 116.36364 116.36364"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg5"
+   sodipodi:docname="ktlitan_feeder.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs5">
+            
+        
+        
+    
+                    
+                    
+                    
+                
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            </defs><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.4185265"
+   inkscape:cx="57.04212"
+   inkscape:cy="56.457073"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Hull" />
+    <g
+   id="Ktlitan-feeder"
+   serif:id="Ktlitan feeder"
+   transform="matrix(3.125,0,0,3.125,-1600.925,-0.9244875)">
+                <path
+   d="M 96.36366,47.272728 107.27275,58.181834 96.36366,69.090911"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:9.09091;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-9"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Nose"
+   transform="matrix(0.32000001,0,0,0.32000001,512.296,0.295836)" /><g
+   id="Exhaust"
+   transform="matrix(1.0874269,0,0,1.0874269,513.51535,1.5151888)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;stroke:#ffffff;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.3692576"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull">
+                        <g
+   id="Starboard"
+   transform="translate(0,-0.8727277)">
+                            <path
+   d="M 527.42327,29.386746 V 22.404928"
+   style="fill:none;stroke:#ffffff;stroke-width:2.90909;stroke-linecap:butt;stroke-dasharray:none"
+   id="path2"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Winglet-aft-starboard" />
+                            <path
+   d="m 520.44145,22.404928 h 15.70906 l 5.2364,5.236364 h 6.98182"
+   style="fill:none;stroke:#ffffff;stroke-width:2.90909;stroke-linecap:butt;stroke-dasharray:none"
+   id="path3"
+   sodipodi:nodetypes="cccc"
+   inkscape:label="Hull-starboard" />
                         </g>
-                        <g id="Port">
-                            <g id="Winglet-aft-port" serif:id="Winglet aft port" transform="matrix(1,0,0,1,-192,0)">
-                                <path d="M719,8.5L719,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                            <g id="Hull-port" serif:id="Hull port" transform="matrix(1,0,0,1,-160,0)">
-                                <path d="M680.5,14.989L693,14.989L700,8.5L706,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
+                        <g
+   id="Port"
+   transform="translate(0,0.8727273)">
+                            <path
+   d="M 527.42327,8.4412908 V 15.423109"
+   style="fill:none;stroke:#ffffff;stroke-width:2.90909;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Winglet-aft-port" />
+                            <path
+   d="m 520.44145,15.423109 h 15.70913 l 5.23633,-5.236364 h 6.98182"
+   style="fill:none;stroke:#ffffff;stroke-width:2.90909;stroke-linecap:butt;stroke-dasharray:none"
+   id="path5"
+   sodipodi:nodetypes="cccc"
+   inkscape:label="Hull-port" />
                         </g>
                     </g>
-                </g>
             </g>
-        </g>
-    </g>
 </svg>

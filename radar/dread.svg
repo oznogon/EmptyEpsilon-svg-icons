@@ -1,37 +1,140 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 37 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g id="Dreadnought" transform="matrix(1,0,0,1,-288.296,0.704164)">
-        <g id="Ship">
-            <g id="Nose" transform="matrix(1,0,0,1,290.5,2)">
-                <path d="M26,13L31,16L26,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Exhaust" transform="matrix(1,0,0,1,290,2)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6.009,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Hull">
-                <path id="Angled-c-beam-fore" serif:id="Angled c beam fore" d="M322,8.5L316.495,8.5L315.505,9.5L315.505,26.508L316.489,27.492L322,27.492" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <path id="Beam-center-starboard" serif:id="Beam center starboard" d="M316.009,21L296.009,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <path id="Beam-center-port" serif:id="Beam center port" d="M296.009,15L316,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <g id="Beam-starbaord" serif:id="Beam starbaord" transform="matrix(1,0,0,1,0,20)">
-                    <path d="M309,7.5L296.009,7.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 35.555556 35.555556"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg7"
+   sodipodi:docname="dread.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs7">
+            
+            
+            
+        
+                    
+                
+                    
+                
+                    
+                
+                    
+                </defs><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.4877808"
+   inkscape:cx="20.500198"
+   inkscape:cy="91.446963"
+   inkscape:window-width="1024"
+   inkscape:window-height="1186"
+   inkscape:window-x="2327"
+   inkscape:window-y="181"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Dreadnought" />
+    <g
+   id="Dreadnought"
+   transform="translate(-288.296,0.704164)">
+        
+    <path
+   d="m 312.74045,13.74028 3.33333,5e-6 6.66667,3.333333 -6.66667,3.333329 -3.33333,5e-6"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust"
+   transform="matrix(1.0383416,0,0,1.0383416,289.46032,0.460148)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   transform="translate(-0.29749783)">
+                
+                <path
+   id="Beam-center-starboard"
+   serif:id="Beam center starboard"
+   d="M 313.03794,20.406947 H 296.37128"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Beam-center-port"
+   serif:id="Beam center port"
+   d="m 296.37128,13.74028 h 16.66666"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 309.70461,25.406947 H 296.37128"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path2"
+   inkscape:label="Beam-starboard"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Beam-port"
+   serif:id="Beam port"
+   d="M 309.70461,8.7402804 H 296.37128"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 309.70461,30.406947 H 296.37128"
+   style="fill:none;stroke:#ffffff;stroke-width:1.38889;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path3"
+   inkscape:label="Narrow-beam-starboard"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 309.70461,3.7402804 H 296.54244"
+   style="fill:none;stroke:#ffffff;stroke-width:1.38889;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path4"
+   inkscape:label="Narrow-beam-port"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 296.37128,3.045836 V 31.101392"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path5"
+   inkscape:label="Beam-aft"
+   sodipodi:nodetypes="cc" />
+                <g
+   id="Reinforced-hull"
+   serif:id="Reinforced hull"
+   style="stroke:#ffffff;stroke-linecap:butt;stroke-opacity:1">
+                    <path
+   d="M 309.70461,20.406947 303.03794,13.74028"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path6"
+   sodipodi:nodetypes="cc" />
+                    <path
+   d="m 309.70461,13.74028 -6.66667,6.677667"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path7"
+   sodipodi:nodetypes="cc" />
                 </g>
-                <path id="Beam-port" serif:id="Beam port" d="M309,8.5L296.009,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <g id="Narrow-beam-starboard" serif:id="Narrow beam starboard" transform="matrix(1,0,0,1,0,0.25)">
-                    <path d="M309,33L296.009,33" style="fill:none;stroke:white;stroke-width:1.5px;stroke-linecap:butt;"/>
-                </g>
-                <g id="Narrow-beam-port" serif:id="Narrow beam port" transform="matrix(1,0,0,1,0,-30.25)">
-                    <path d="M309,33L296.009,33" style="fill:none;stroke:white;stroke-width:1.5px;stroke-linecap:butt;"/>
-                </g>
-                <g id="Beam-aft" serif:id="Beam aft" transform="matrix(1.06667,0,0,1.06667,-19.2432,-1.2)">
-                    <path d="M296.009,3L296.009,33" style="fill:none;stroke:white;stroke-width:2.81px;stroke-linecap:butt;"/>
-                </g>
-                <g id="Reinforced-hull" serif:id="Reinforced hull">
-                    <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                    <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                </g>
-            </g>
-        </g>
-    </g>
+            <path
+   d="m 319.70461,7.0736124 h -3.33333 l -3.33334,3.3333336 v 13.333333 l 3.33334,3.333334 h 3.33333"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+   id="path2-5"
+   sodipodi:nodetypes="cccccc"
+   inkscape:label="C-bar-fore" /></g></g>
 </svg>

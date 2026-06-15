@@ -1,39 +1,136 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g id="Ship" transform="matrix(1,0,0,1,-320.296,-1.29584)">
-        <g id="Exuari-5" serif:id="Exuari 5">
-            <g id="Ship1" serif:id="Ship">
-                <g id="Nose" transform="matrix(1,0,0,1,322,3)">
-                    <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 35.555556 35.555556"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg8"
+   sodipodi:docname="exuari_5.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs8" /><sodipodi:namedview
+   id="namedview8"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.7676312"
+   inkscape:cx="72.99016"
+   inkscape:cy="59.188384"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8" />
+    <g
+   id="g8"
+   inkscape:label="Exuari-5"><path
+     d="m 344.74045,15.740284 3.33333,5e-6 6.66667,3.333333 -6.66667,3.333329 -3.33333,5e-6"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-dasharray:none;stroke-opacity:0.66"
+     id="path1-5"
+     sodipodi:nodetypes="ccccc"
+     inkscape:label="Nose"
+     transform="translate(-320.296,-1.29584)" /><g
+     id="Exhaust-4"
+     transform="matrix(1.0383416,0,0,1.0383416,1.16432,1.1643125)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;stroke:#ffffff;stroke-opacity:0.66"
+     inkscape:label="Exhaust">
+                <path
+   id="Exhaust-starboard-7"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Exhaust-starboard" />
+                <path
+   id="Exhaust-port-6"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Exhaust-port" />
+            </g><g
+     id="Hull-4"
+     style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+     transform="translate(-320.296,-1.29584)"
+     inkscape:label="Hull">
+                <path
+   d="m 328.07378,22.406951 h 20"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none"
+   id="path2-8"
+   inkscape:label="Beam-starboard"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Beam-port-1"
+   serif:id="Beam port"
+   d="m 328.07378,15.740285 h 20"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-port" />
+                <g
+   id="Reinforced-hull-2"
+   serif:id="Reinforced hull"
+   transform="translate(27.16653,0.961579)"
+   inkscape:label="Reinforced-hull">
+                    <path
+   d="m 310.07378,21.445372 -6.66666,-6.666666"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none"
+   id="path3-9"
+   sodipodi:nodetypes="cc"
+   inkscape:label="path3" />
+                    <path
+   d="m 310.07378,14.778706 -6.66666,6.666666"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4-3"
+   sodipodi:nodetypes="cc"
+   inkscape:label="path4" />
+                </g><g
+   id="Weapon-port-6"
+   serif:id="Weapon port"
+   inkscape:label="Weapon-hardpoint-starboard"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   transform="matrix(1,0,0,-1,-8.3333803,38.147238)">
+                    <path
+   d="m 344.74045,10.740285 1.66667,-1.6666671 h 11.6667"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none"
+   id="path7-9"
+   inkscape:label="Weapon-starboard"
+   sodipodi:nodetypes="ccc" />
+                    <path
+   d="m 339.74045,15.740285 -1.66667,-3.333334 3.33334,-3.3333311 h 1.66666 l 3.33334,3.3333311 -1.66667,3.333334 z"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-dasharray:none"
+   id="path8-3"
+   inkscape:label="Hardpoint-starboard"
+   sodipodi:nodetypes="ccccccc" />
                 </g>
-                <g id="Exhaust" transform="matrix(1,0,0,1,322.495,2)">
-                    <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+                
+                <g
+   id="Weapon-port-9"
+   serif:id="Weapon port"
+   inkscape:label="Weapon-hardpoint-port"
+   transform="translate(-8.3333803,-1.0879628e-4)">
+                    <path
+   d="m 344.74045,10.740285 1.66667,-1.6666671 h 11.6667"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none"
+   id="path7-0"
+   inkscape:label="Weapon-port"
+   sodipodi:nodetypes="ccc" />
+                    <path
+   d="m 339.74045,15.740285 -1.66667,-3.333334 3.33334,-3.3332243 h 1.66666 l 3.33334,3.3332243 -1.66667,3.333334 z"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-dasharray:none"
+   id="path8-8"
+   inkscape:label="Hardpoint-port"
+   sodipodi:nodetypes="ccccccc" />
                 </g>
-                <g id="Hull">
-                    <g id="Beam-starboard" serif:id="Beam starboard" transform="matrix(1,0,0,1,0,6)">
-                        <path d="M329,16L348,16" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                    </g>
-                    <path id="Beam-port" serif:id="Beam port" d="M329,16L348,16" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                    <g id="Reinforced-hull" serif:id="Reinforced hull" transform="matrix(1,0,0,1,27,0.961579)">
-                        <path d="M309,21L303.038,15.038" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        <path d="M309,15.038L303.017,21.022" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                    </g>
-                    <g id="Hardpoint-starboard" serif:id="Hardpoint starboard" transform="matrix(1,0,0,-1,-10,37)">
-                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
-                    </g>
-                    <g id="Hardpoint-port" serif:id="Hardpoint port" transform="matrix(1,0,0,1,-10,1)">
-                        <path d="M341,14L340,12L343,8L344,8L347,12L346,14" style="fill:none;stroke:white;stroke-width:2px;"/>
-                    </g>
-                </g>
-                <g id="Weapon-starboard" serif:id="Weapon starboard" transform="matrix(1,0,0,1,-10,2)">
-                    <path d="M346,25L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                </g>
-                <g id="Weapon-port" serif:id="Weapon port" transform="matrix(1,0,0,1,-10,-16)">
-                    <path d="M346,27L347,26L360,26" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                </g>
-            </g>
-        </g>
-    </g>
+            </g></g>
 </svg>

@@ -1,36 +1,114 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-0.295836)">
-            <g id="Ktlitan-destroyer" serif:id="Ktlitan destroyer">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull" transform="matrix(1,0,0,1,-32,0)">
-                        <g id="Beam-center" serif:id="Beam center" transform="matrix(1,0,0,1,-64,0)">
-                            <path d="M624,18.029L635,18" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Center-connector" serif:id="Center connector" transform="matrix(1,0,0,1,-96,0)">
-                            <path d="M654,20L657,18.014L654,16" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Aft-assembly" serif:id="Aft assembly" transform="matrix(1,0,0,1,-96,0)">
-                            <path d="M654,9L649.023,13.977L651,18L649,22L654.058,27.058" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Beam-curved-starboard" serif:id="Beam curved starboard" transform="matrix(1,0,0,1,-96,0)">
-                            <path d="M661,21L656,21L654,20L652.037,18.037" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Beam-curved-port" serif:id="Beam curved port" transform="matrix(1,0,0,1,-96,0)">
-                            <path d="M661,15L656,15L654,16L651.987,18.013" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:butt;"/>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg6"
+   sodipodi:docname="ktlitan_destroyer.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs6">
+        
+    
+            
+        
+                    
+                    
+                    
+                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        </defs><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.0215562"
+   inkscape:cx="118.44674"
+   inkscape:cy="75.375197"
+   inkscape:window-width="937"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ktlitan-destroyer" />
+    <g
+   id="Ktlitan-destroyer"
+   serif:id="Ktlitan destroyer"
+   transform="matrix(3.125,0,0,3.125,-1600.925,-0.9244875)">
+                
+            <path
+   d="m 546.216,16.935836 3.84,3.840005 -3.84,3.839995"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;stroke:#ffffff;stroke-opacity:0.66;fill:none;stroke-width:3.2;stroke-dasharray:none"
+   id="path1"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust"
+   transform="matrix(1.1961695,0,0,1.1961695,513.63729,1.6371242)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull"
+   transform="translate(-26.704128,2.7756962)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
+                        <path
+   d="M 554.68013,18.00014 570.04013,18"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-linecap:butt"
+   id="path2"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-center" />
+                        <path
+   d="M 552.9975,20.00014 555.99736,18.014 552.9975,16.00014"
+   style="fill:none;stroke:#ffffff;stroke-width:2px;stroke-linecap:butt"
+   id="path3"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Center-connector" />
+                        <path
+   d="m 552.44014,6.4801398 -5.43993,5.7600002 1.91993,5.76 -1.92,5.76 5.44,5.76"
+   style="fill:none;stroke:#ffffff;stroke-width:3.2;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Aft-assembly" />
+                        <path
+   d="m 563.32029,21.200135 h -9.59992 l -3.84005,-3.199991"
+   style="fill:none;stroke:#ffffff;stroke-width:2.00001px;stroke-linecap:butt"
+   id="path5"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Beam-curved-starboard" />
+                        <path
+   d="m 563.31997,14.80014 h -9.59984 l -3.84,3.2"
+   style="fill:none;stroke:#ffffff;stroke-width:2px;stroke-linecap:butt"
+   id="path6"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Beam-curved-port" />
+                    </g></g>
 </svg>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="hugestation-oz.svg"
+   width="128"
+   height="128"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="hugestation-oz.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs11">
+        
+        
+        
+        
+        
+        
+        
+        
+      
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+      
+      
+      
+      
+    <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath8"><ellipse
+     cx="594.08899"
+     cy="18"
+     rx="16.089001"
+     ry="16"
+     id="ellipse8"
+     style="stroke-width:1"
+     transform="rotate(-90)" /></clipPath>
+    
+    
+      
+    
+  <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath15"><use
+     x="0"
+     y="0"
+     xlink:href="#g14"
+     id="use15" /></clipPath>
+            
+            
+            
+            
+        </defs><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.3491986"
+   inkscape:cx="292.3958"
+   inkscape:cy="256.07794"
+   inkscape:window-width="1957"
+   inkscape:window-height="1186"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg11"
+   showgrid="false"
+   showguides="true" />
+  <g
+   id="g15"
+   clip-path="url(#clipPath15)"
+   transform="matrix(3.1191628,0,0,3.1191628,-2886.728,7.8551291)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5"
+   inkscape:label="Huge-station"><g
+     inkscape:label="Clip"
+     id="g14"><circle
+       cx="-17.999981"
+       cy="946"
+       id="ellipse9"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:0;stroke-miterlimit:1.5;stroke:none;fill:none;stroke-dasharray:none"
+       transform="rotate(-90)"
+       r="17.953535" /></g><g
+     id="Arrow-aft-starboard"
+     serif:id="Arrow aft starboard"
+     transform="matrix(0.7779407,0,0,0.7779407,85.812776,7.67151)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5">
+                <path
+   d="M 1080.4817,38.518326 1097.069,21.931038"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path1"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 1098,38.518326 V 23 l -2,-2 h -15.5183"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path2"
+   sodipodi:nodetypes="cccc"
+   inkscape:label="Port-aft-starboard" />
+            </g><g
+     id="Arrow-fore-starboard"
+     serif:id="Arrow fore starboard"
+     transform="matrix(0.7779407,0,0,0.7779407,93.161718,7.6715099)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5">
+                <path
+   d="M 1121.5183,38.518326 1104.9311,21.931038"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path3"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 1104,38.518326 V 23 l 2,-2 h 15.5183"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path4"
+   sodipodi:nodetypes="cccc"
+   inkscape:label="Port-fore-starboard" />
+            </g><g
+     id="Arrow-aft-port"
+     serif:id="Arrow aft port"
+     transform="matrix(0.77793301,0,0,0.77793301,85.821069,0.32252193)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5">
+                <path
+   d="M 1097.0692,14.069185 1080.9967,-2.0033497"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path5"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Port-aft-port"
+   serif:id="Port aft port"
+   d="m 1080.9967,15.305533 h 14.8362 l 2.4727,-2.472697 V -2.0033497"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   sodipodi:nodetypes="cccc" />
+            </g><g
+     id="Arrow-fore-port"
+     serif:id="Arrow fore port"
+     transform="matrix(0.77793301,0,0,0.77793301,93.170438,0.32252195)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5">
+                <path
+   d="m 1104.9308,14.069185 16.5875,-16.587512"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path6"
+   sodipodi:nodetypes="cc" />
+                <path
+   d="M 1121.5183,15.000156 1106,15 l -2,-2 -2e-4,-15.518327"
+   style="fill:none;stroke:#ffffff;stroke-width:3.20599;stroke-dasharray:none"
+   id="path7"
+   sodipodi:nodetypes="cccc"
+   inkscape:label="Port-fore-port" />
+            </g><path
+     id="path15"
+     style="baseline-shift:baseline;clip-rule:nonzero;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-rule:nonzero;stroke-width:1.00003;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 944.0764,-2.5183453 V 10.305609 l -4.80898,0.961796 -4.80898,4.808983 h -8.97677 v 3.847186 h 8.97677 l 4.80898,4.808983 4.80898,0.961796 v 12.823954 h 3.84719 V 25.694353 l 4.80898,-0.961796 4.80899,-4.808983 h 8.97676 v -3.847186 h -8.97676 l -4.80899,-4.808983 -4.80898,-0.961796 V -2.5183453 Z M 940.22922,12.229202 946,11.267405 l 5.77078,0.961797 5.77078,5.770779 -5.77078,5.770779 L 946,24.732557 940.22922,23.77076 934.45844,17.999981 Z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+     inkscape:label="Core" /></g>
+</svg>

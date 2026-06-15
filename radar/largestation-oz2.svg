@@ -7,7 +7,7 @@
    xml:space="preserve"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5"
    id="svg14"
-   sodipodi:docname="largestation.svg"
+   sodipodi:docname="largestation-oz2.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -53,9 +53,9 @@
    inkscape:window-width="1716"
    inkscape:window-height="1186"
    inkscape:window-x="1815"
-   inkscape:window-y="395"
+   inkscape:window-y="367"
    inkscape:window-maximized="0"
-   inkscape:current-layer="g8-6"
+   inkscape:current-layer="g1"
    showguides="false" />
     <g
    id="g8-6"
@@ -142,5 +142,17 @@
    d="m 1111.8706,14.910021 -8.2832,-8.2832004"
    id="path8-8-4-8"
    sodipodi:nodetypes="cc"
-   inkscape:label="Berth-aft-port" /></g></g>
+   inkscape:label="Berth-aft-port" /></g><g
+     id="g1"
+     inkscape:label="Rings"><path
+       id="rect1"
+       style="fill:none;stroke:#ffffff;stroke-width:2.00000013;stroke-dasharray:none"
+       d="m 943.69602,15.695841 2.4,-1.2 2.4,1.2 1.2,2.4 -1.2,2.4 -2.4,1.2 -2.4,-1.2 -1.2,-2.4 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="Ring-inner" /><path
+       id="rect1-8"
+       style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-miterlimit:1.5"
+       d="m 938.89602,10.895841 7.2,-3.6000005 7.2,3.6000005 3.6,7.2 -3.6,7.200001 -7.2,3.6 -7.2,-3.6 -3.6,-7.200001 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="Ring-outer" /></g></g>
 </svg>

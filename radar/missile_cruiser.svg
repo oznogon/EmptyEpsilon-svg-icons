@@ -1,30 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,1.70416,1.70416)">
-            <g id="Missile-cruiser" serif:id="Missile cruiser">
-                <g id="Ship1" serif:id="Ship">
-                    <path id="Nose" d="M25,12L26,13L31,16L26,19L25,20" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    <g id="Exhaust">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6.009,6.009" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull">
-                        <g id="Beam-aft" serif:id="Beam aft" transform="matrix(1,0,0,1,0.490785,0)">
-                            <path d="M6.009,6L6.009,26" style="fill:none;stroke:white;stroke-width:3px;"/>
-                        </g>
-                        <path id="Outer-hull-starboard" serif:id="Outer hull starboard" d="M6.5,26L19,26L24.971,20.029" style="fill:none;stroke:white;stroke-width:3px;"/>
-                        <path id="Outer-hull-port" serif:id="Outer hull port" d="M6.5,6L19,6L25.012,12.012" style="fill:none;stroke:white;stroke-width:3px;"/>
-                        <g id="Inner-hull-starboard" serif:id="Inner hull starboard" transform="matrix(1,0,0,1,-957,-2)">
-                            <path d="M963.5,21L975,21" style="fill:none;stroke:white;stroke-width:3px;"/>
-                        </g>
-                        <g id="Inner-hull-port" serif:id="Inner hull port" transform="matrix(1,0,0,1,-957,-8)">
-                            <path d="M963.5,21L975,21" style="fill:none;stroke:white;stroke-width:3px;"/>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 108.93617 108.93617"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg3"
+   sodipodi:docname="missile_cruiser.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs3">
+            
+        
+        
+    
+                    
+                    
+                    
+                
+                            
+                        
+                            
+                        
+                            
+                        </defs><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.963964"
+   inkscape:cx="21.190909"
+   inkscape:cy="139.00227"
+   inkscape:window-width="1850"
+   inkscape:window-height="1723"
+   inkscape:window-x="1292"
+   inkscape:window-y="111"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Hull" />
+    <g
+   id="Missile-cruiser"
+   serif:id="Missile cruiser"
+   style="stroke-width:2.7234;stroke-dasharray:none"
+   transform="matrix(3.125,0,0,3.125,5.3255,5.3255)">
+                
+            <path
+   d="m 22.261798,9.189457 3.268086,3.26809 6.536169,3.268084 -6.536169,3.268081 -3.268086,3.268085"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.72341;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-0"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust"
+   transform="matrix(1.0180166,0,0,1.0180166,-0.56263495,-0.5626383)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;stroke-width:2.7234;stroke-dasharray:none">
+                        
+                        
+                        <path
+   id="Outer-hull-port"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-linecap:butt;stroke-dasharray:none"
+   d="M 25.529882,12.457542 18.993712,5.9213719 H 5.9213719 V 25.529883 H 18.993712 l 6.53617,-6.536171"
+   sodipodi:nodetypes="cccccc"
+   inkscape:label="Outer-hull" />
+                        <path
+   d="M 5.92137,18.993712 H 18.99371"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-dasharray:none"
+   id="path2"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Inner-hull-starboard" />
+                        <path
+   d="M 5.92137,12.457542 H 18.99371"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-dasharray:none"
+   id="path3"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Inner-hull-port" />
+                    </g></g>
 </svg>

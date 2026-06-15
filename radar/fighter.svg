@@ -1,26 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-0.295836)">
-            <g id="Fighter">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                        <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 116.36364 116.36364"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg5"
+   sodipodi:docname="fighter.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs5">
+                    
+                    
+                    
+                
+                            
+                        </defs><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.9742199"
+   inkscape:cx="-26.339518"
+   inkscape:cy="110.1701"
+   inkscape:window-width="1024"
+   inkscape:window-height="1186"
+   inkscape:window-x="2388"
+   inkscape:window-y="129"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Hull" />
+    <g
+   id="Fighter"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   transform="matrix(3.125,0,0,3.125,-1600.925,-0.92448745)">
+                <path
+   d="m 80,47.272726 10.909093,1.7e-5 L 112.72727,58.181832 90.909093,69.090908 80,69.090925"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:9.09092;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-4"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose"
+   transform="matrix(0.32,0,0,0.32,512.296,0.29583598)" /><g
+   id="Exhaust-4"
+   transform="matrix(1.0874268,0,0,1.0874268,513.51536,1.515189)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;stroke:#ffffff;stroke-opacity:0.66"
+   inkscape:label="Exhaust">
+                <path
+   id="Exhaust-starboard-4"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Exhaust-starboard" />
+                <path
+   id="Exhaust-port-4"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Exhaust-port" />
+            </g><g
+   id="Hull"
+   transform="translate(-32)"
+   style="display:inline">
+                        <path
+   d="m 559.42327,8.4412905 6.98182,6.9818185 v 6.981818 l -6.98182,6.981818"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-linecap:butt"
+   id="path2"
+   inkscape:label="Reverse-C-bar-winglet"
+   sodipodi:nodetypes="cccc" />
+                        
+                        <path
+   d="m 573.38691,22.404927 h -6.98182"
+   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-linecap:butt"
+   id="path4"
+   inkscape:label="Beam-short-starboard"
+   sodipodi:nodetypes="cc" /><path
+   d="m 573.38691,15.423109 h -6.98182"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;display:inline;fill:none;stroke:#ffffff;stroke-width:3px"
+   id="path3"
+   inkscape:label="Beam-short-port"
+   sodipodi:nodetypes="cc"
+   transform="translate(1.208166e-5)" />
                     </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull" transform="matrix(1,0,0,1,-32,0)">
-                        <path d="M559,9L565,15L565,21L559,27" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        <path d="M571,15L565,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        <g transform="matrix(1,0,0,1,0,6)">
-                            <path d="M571,15L565,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                    </g>
-                </g>
             </g>
-        </g>
-    </g>
 </svg>

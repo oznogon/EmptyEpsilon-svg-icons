@@ -1,21 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g id="Exuari-frigate" serif:id="Exuari frigate" transform="matrix(1,0,0,1,-512.296,-0.295836)">
-        <g id="Ship">
-            <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                <path d="M25,13L27,13L31,16L27,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 35.555556 35.555556"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg1"
+   sodipodi:docname="exuari_frigate_2.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.3445045"
+   inkscape:cx="60.995582"
+   inkscape:cy="80.131451"
+   inkscape:window-width="1805"
+   inkscape:window-height="1107"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1" />
+    
+<g
+   id="Exuari-frigate"
+   serif:id="Exuari frigate"
+   transform="translate(-512.296,-0.295836)"
+   inkscape:label="Exuari-frigate-2"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
+        <path
+   d="m 536.74045,14.74028 3.33333,5e-6 6.66667,3.333333 -6.66667,3.333329 -3.33333,5e-6"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust"
+   transform="matrix(1.0383416,0,0,1.0383416,513.46032,1.460148)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull"
+   style="stroke:#ffffff;stroke-width:2.77778;stroke-dasharray:none;stroke-opacity:1">
+                <path
+   id="Beam-aft"
+   serif:id="Beam aft"
+   d="M 520.07378,11.406947 V 24.74028"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Beam-starboard"
+   serif:id="Beam starboard"
+   d="m 520.07378,21.406947 h 20"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Beam-port"
+   serif:id="Beam port"
+   d="m 540.07378,14.74028 h -20"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Hull-center"
+   serif:id="Hull center"
+   d="M 526.74044,9.7402805 V 26.406988 c 0,0 2.33334,1.666585 3.33334,1.666585 1,0 3.33333,-1.666585 3.33333,-1.666585 V 9.7402795 c 0,0 -2.09107,-1.6666649 -3.33333,-1.6666655 -1.24226,-6e-7 -3.33334,1.6666665 -3.33334,1.6666665 z"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="ccsccac" />
             </g>
-            <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-            </g>
-            <g id="Hull">
-                <path id="Beam-aft" serif:id="Beam aft" d="M520.5,15L520.5,24M520.5,15L520.5,12" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <path id="Beam-starboard" serif:id="Beam starboard" d="M520.5,21L539,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <path id="Beam-port" serif:id="Beam port" d="M539,15L520.5,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                <path id="Hull-center" serif:id="Hull center" d="M527,11L527,25C527,25 529,26 530,26C531,26 533,25 533,25L533,11C533,11 531,10 530,10C529,10 527,11 527,11Z" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-            </g>
-        </g>
-    </g>
-</svg>
+    </g></svg>

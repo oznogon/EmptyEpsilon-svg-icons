@@ -1,43 +1,112 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 111 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-64.2958,1.70416)">
-            <g id="Striker">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,66,1)">
-                        <path d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,66,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L6,6" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L6,26" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull">
-                        <g id="Starboard-wing" serif:id="Starboard wing" transform="matrix(1,0,0,-1,0,34)">
-                            <g id="Winglet-aft-starboard" serif:id="Winglet aft starboard" transform="matrix(1,0,0,1,32,-1)">
-                                <path d="M46.5,8.5L41.028,13.972L42.056,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                            <g id="Hull-starboard" serif:id="Hull starboard" transform="matrix(1,0,0,1,32,-1)">
-                                <path d="M42,13L40,15L59,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                            <g id="Wing-fore-starboard" serif:id="Wing fore starboard" transform="matrix(1,0,0,1,32,-1)">
-                                <path d="M60,2L47,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                        </g>
-                        <g id="Port-wing" serif:id="Port wing">
-                            <g id="Winglet-aft-port" serif:id="Winglet aft port" transform="matrix(1,0,0,1,32,-1)">
-                                <path d="M46.5,8.5L41.028,13.972L42.056,14.988" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                            <g id="Hull-port" serif:id="Hull port" transform="matrix(1,0,0,1,32,-1)">
-                                <path d="M42,13L40,15L59,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                            <g id="Wing-fore-port" serif:id="Wing fore port" transform="matrix(1,0,0,1,32,-1)">
-                                <path d="M60,2L47,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                            </g>
-                        </g>
-                    </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg7"
+   sodipodi:docname="striker.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs7" /><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.4014729"
+   inkscape:cx="43.168869"
+   inkscape:cy="69.569665"
+   inkscape:window-width="1171"
+   inkscape:window-height="1186"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Advanced-striker" />
+    
+<g
+   id="Advanced-striker"
+   serif:id="Advanced striker"
+   transform="translate(-64.2324,1.70416)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   inkscape:label="Striker">
+        <path
+   d="m 152.23241,50.29584 12,1.9e-5 24,11.999998 -24,11.999983 -12,1.9e-5"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-6"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust-2"
+   transform="matrix(3.7380296,0,0,3.7380296,68.423947,2.4873685)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66"
+   inkscape:label="Exhaust">
+                <path
+   id="Exhaust-starboard-9"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Exhaust-starboard" />
+                <path
+   id="Exhaust-port-1"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Exhaust-port" />
+            </g><g
+   id="Hull"
+   transform="matrix(3.6977339,0,0,3.6977339,-172.02819,0.163645)"
+   style="stroke-width:2.70436;stroke-dasharray:none">
+                <g
+   id="Starboard-wing"
+   serif:id="Starboard wing"
+   transform="matrix(1.0000064,0,0,-0.99999948,-4.5464131e-4,34.048004)"
+   style="stroke-width:2.70436;stroke-dasharray:none">
+                    
+                    
+                    <path
+   d="M 77.955968,7.5095393 71.465548,14 H 90.937"
+   style="fill:none;stroke:#ffffff;stroke-width:2.70436;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Winglet-starboard" />
+                    <path
+   id="path5"
+   style="fill:none;stroke:#ffffff;stroke-width:2.70436;stroke-linecap:butt;stroke-dasharray:none"
+   d="M 90.936808,1 77.955968,14"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Wing-starboard" />
+                </g><g
+   id="Starboard-wing-7"
+   serif:id="Starboard wing"
+   transform="matrix(1.0000064,0,0,0.99999948,0.25272001,-0.54969123)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:2.70436;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none"
+   inkscape:label="Port-wing">
+                    
+                    
+                    <path
+   d="M 77.702795,7.6167789 71.212259,14.107244 H 90.683711"
+   style="fill:none;stroke:#ffffff;stroke-width:2.70436;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4-0"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Winglet-port" />
+                    <path
+   id="path5-9"
+   style="fill:none;stroke:#ffffff;stroke-width:2.70436;stroke-linecap:butt;stroke-dasharray:none"
+   d="M 90.683635,1.1263139 77.702795,14.107244"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Wing-port" />
                 </g>
+                
             </g>
-        </g>
-    </g>
-</svg>
+    </g></svg>

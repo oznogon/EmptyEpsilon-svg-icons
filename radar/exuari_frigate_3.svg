@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="100%"
-   height="100%"
-   viewBox="0 0 36 36"
+   width="128"
+   height="128"
+   viewBox="0 0 35.555556 35.555556"
    version="1.1"
    xml:space="preserve"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
    id="svg1"
    sodipodi:docname="exuari_frigate_3.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,67 +23,69 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="23.777778"
-   inkscape:cx="18"
-   inkscape:cy="18"
-   inkscape:window-width="1805"
-   inkscape:window-height="1107"
+   inkscape:zoom="3.8741923"
+   inkscape:cx="89.05082"
+   inkscape:cy="40.653635"
+   inkscape:window-width="1024"
+   inkscape:window-height="1186"
    inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="1"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
    inkscape:current-layer="svg1" />
-    <g
+    
+<g
    id="Exuari-frigate"
    serif:id="Exuari frigate"
-   transform="matrix(1,0,0,1,-512.296,-0.295836)">
-        <g
-   id="Ship">
-            <g
-   id="Nose"
-   transform="matrix(1,0,0,1,514,2)">
-                <path
-   d="M25,13L27,13L31,16L27,19L25,19"
-   style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"
-   id="path1" />
-            </g>
-            <g
+   transform="translate(-512.296,-0.295836)"
+   inkscape:label="Exuari-frigate-3"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
+        <path
+   d="m 536.74045,14.74028 3.33333,5e-6 6.66667,3.333333 -6.66667,3.333329 -3.33333,5e-6"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose" /><g
    id="Exhaust"
-   transform="matrix(1,0,0,1,514.495,1)">
+   transform="matrix(1.0383416,0,0,1.0383416,513.46032,1.460148)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
                 <path
    id="Exhaust-starboard"
    serif:id="Exhaust starboard"
-   d="M0.505,2L5.505,7"
-   style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;" />
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
                 <path
    id="Exhaust-port"
    serif:id="Exhaust port"
-   d="M0.505,32L5.505,27"
-   style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;" />
-            </g>
-            <g
-   id="Hull">
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull"
+   style="stroke:#ffffff;stroke-width:2.77778;stroke-dasharray:none;stroke-opacity:1">
                 <path
    id="Beam-aft"
    serif:id="Beam aft"
-   d="M520.5,15L520.5,24M520.5,15L520.5,12"
-   style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;" />
+   d="M 520.07378,11.406947 V 24.74028"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
                 <path
    id="Beam-starboard"
    serif:id="Beam starboard"
-   d="M520.5,21L539,21"
-   style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;" />
+   d="m 520.07378,21.406947 h 20"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
                 <path
    id="Beam-port"
    serif:id="Beam port"
-   d="M539,15L520.5,15"
-   style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;" />
+   d="m 540.07378,14.74028 h -20"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" />
                 <path
    id="Hull-center"
    serif:id="Hull center"
-   d="m 527,9.999836 v 16 h 6 v -16 z"
-   style="fill:none;stroke:#ffffff;stroke-width:3px;stroke-linecap:butt"
+   d="M 526.74044,9.7402809 V 26.406947 h 6.66667 V 9.7402799 Z"
+   style="fill:none;stroke:#ffffff;stroke-width:2.77778;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
    sodipodi:nodetypes="ccccc" />
             </g>
-        </g>
-    </g>
-</svg>
+    </g></svg>

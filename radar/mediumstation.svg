@@ -1,38 +1,139 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Medium-station" serif:id="Medium station" transform="matrix(1,0,0,1,-933.296,-5.29584)">
-            <g id="Arrow-aft-starboard" serif:id="Arrow aft starboard" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
-                <g id="Arrow-aft-starboard1" serif:id="Arrow aft starboard" transform="matrix(1,0,0,1,155,0)">
-                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-                <g id="Port-aft-starboard" serif:id="Port aft starboard" transform="matrix(6.12323e-17,-1,1,6.12323e-17,1083,1119)">
-                    <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-            </g>
-            <g id="Arrow-fore-starboard" serif:id="Arrow fore starboard" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
-                <g id="Arrow-fore-starboard1" serif:id="Arrow fore starboard" transform="matrix(-1.6148e-14,-1,1,-1.6148e-14,1083,964)">
-                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-                <g id="Port-fore-starboard" serif:id="Port fore starboard" transform="matrix(-6.12323e-17,-1,-1,6.12323e-17,1119,1119)">
-                    <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-            </g>
-            <g id="Arrow-aft-port" serif:id="Arrow aft port" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
-                <g id="Arrow-aft-port1" serif:id="Arrow aft port" transform="matrix(-1.65921e-14,-1,1,-1.65921e-14,1070,951)">
-                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-                <path id="Port-aft-port" serif:id="Port aft port" d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
-            </g>
-            <g id="Arrow-fore-port" serif:id="Arrow fore port" transform="matrix(1,0,0,1,-155,-1.83625e-05)">
-                <g id="Arrow-fore-port1" serif:id="Arrow fore port" transform="matrix(1,-1.66533e-14,1.66533e-14,1,168,-13)">
-                    <path d="M936,28L943,21" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-                <g id="Port-fore-port" serif:id="Port fore port" transform="matrix(-1,0,0,1,2202,0)">
-                    <path d="M1091.5,15L1096,15L1098,13L1098,8.5" style="fill:none;stroke:white;stroke-width:3px;"/>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 80 80"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5"
+   id="svg7"
+   sodipodi:docname="mediumstation.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs7">
+        
+    <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath8"><use
+     x="0"
+     y="0"
+     xlink:href="#g7"
+     id="use8" /></clipPath>
+            
+            
+            
+            
+        
+                    
+                
+                    
+                </defs><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="7.8828125"
+   inkscape:cx="63.555996"
+   inkscape:cy="73.641229"
+   inkscape:window-width="2142"
+   inkscape:window-height="1186"
+   inkscape:window-x="1220"
+   inkscape:window-y="687"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g8"
+   showguides="false" />
+    <g
+   id="g8"
+   clip-path="url(#clipPath8)"
+   inkscape:label="Medium-station"
+   transform="matrix(3.125,0,0,3.125,-2916.55,-16.5495)"><g
+     inkscape:label="Clip"
+     id="g7"><circle
+       style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke-width:0;stroke-miterlimit:1.5;stroke-dasharray:none;stroke:none"
+       id="path15"
+       cx="946.09601"
+       cy="18.09584"
+       r="12"
+       inkscape:label="Mask" /></g><g
+     id="Arrow-fore-port-3-3"
+     serif:id="Arrow fore port"
+     transform="translate(-168.96049)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="Arrow-berth-aft-port">
+                
+                
+            <path
+   d="m 1103.0564,15.695858 h 8.4 l 1.2,-1.200018 v -8.4"
+   style="clip-rule:evenodd;display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+   id="path6-60-9"
+   inkscape:label="Angle-aft-port"
+   sodipodi:nodetypes="cccc" /><path
+   style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+   d="m 1111.4564,14.49584 -8.4,-8.4"
+   id="path8-8"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Berth-aft-port" /></g><g
+     id="Arrow-fore-port-3-3-3"
+     serif:id="Arrow fore port"
+     transform="matrix(-1,0,0,1,2061.1524,-9.3218813e-5)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="Arrow-berth-fore-port">
+                
+                
+            <path
+   d="m 1103.0564,15.695858 h 8.4 l 1.2,-1.200018 v -8.4"
+   style="clip-rule:evenodd;display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+   id="path6-60-9-0"
+   inkscape:label="Angle-fore-port"
+   sodipodi:nodetypes="cccc" /><path
+   style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+   d="m 1111.4564,14.49584 -8.4,-8.4"
+   id="path8-8-8"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Berth-fore-port" /></g><g
+     id="Arrow-fore-port-3-3-38"
+     serif:id="Arrow fore port"
+     transform="matrix(1,0,0,-1,-168.96049,36.191698)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="Arrow-berth-aft-port">
+                
+                
+            <path
+   d="m 1103.0564,15.695858 h 8.4 l 1.2,-1.200018 v -8.4"
+   style="clip-rule:evenodd;display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+   id="path6-60-9-4"
+   inkscape:label="Angle-aft-port"
+   sodipodi:nodetypes="cccc" /><path
+   style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+   d="m 1111.4564,14.49584 -8.4,-8.4"
+   id="path8-8-5"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Berth-aft-port" /></g><g
+     id="Arrow-fore-port-3-3-3-9"
+     serif:id="Arrow fore port"
+     transform="rotate(180,1030.5762,18.095896)"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="Arrow-berth-fore-port">
+                
+                
+            <path
+   d="m 1103.0564,15.695858 h 8.4 l 1.2,-1.199906 v -8.4"
+   style="clip-rule:evenodd;display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+   id="path6-60-9-0-9"
+   inkscape:label="Angle-fore-port"
+   sodipodi:nodetypes="cccc" /><path
+   style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+   d="m 1111.4564,14.495952 -8.4,-8.4"
+   id="path8-8-8-5"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Berth-fore-port" /></g></g>
 </svg>

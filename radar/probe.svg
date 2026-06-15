@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="100"
-   height="100"
+   width="128"
+   height="128"
    viewBox="0 0 100 100"
    version="1.1"
    xml:space="preserve"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
    id="svg11"
    sodipodi:docname="probe.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    inkscape:export-filename="probe.png"
    inkscape:export-xdpi="117.166"
    inkscape:export-ydpi="117.166"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
    id="namedview11"
    pagecolor="#000000"
    bordercolor="#000000"
@@ -26,48 +25,30 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="4.254175"
-   inkscape:cx="21.625815"
-   inkscape:cy="56.180106"
-   inkscape:window-width="1805"
-   inkscape:window-height="1107"
+   inkscape:cx="21.743346"
+   inkscape:cy="56.297637"
+   inkscape:window-width="1557"
+   inkscape:window-height="1186"
    inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="1"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
    inkscape:current-layer="svg11"
    showgrid="false" />
     <g
-   transform="matrix(3.1286698,0,0,3.1286698,-14.07868,-14.075349)"
-   id="g2">
-        <g
-   id="Hull"
-   transform="translate(-226,-2)">
-            <g
-   id="Probe">
-                <g
-   id="Hull1"
-   serif:id="Hull">
-                    <g
-   id="Body"
-   transform="matrix(2.66667,0,0,2.66667,-403.333,-30)">
-                        <circle
-   cx="243.67999"
-   cy="19.679998"
-   style="fill:url(#_Radial1);stroke-width:1.88778"
+   id="Probe"
+   transform="matrix(3.1286698,0,0,3.1286698,-721.15805,-20.332689)">
+                <circle
+   cx="246.48112"
+   cy="22.480061"
+   style="fill:url(#_Radial1);stroke-width:5.03409"
    id="circle1"
-   r="6.2926025" />
-                    </g>
-                    <g
-   transform="translate(-790.52,4.48)"
-   id="g1">
-                        <path
-   d="m 1037,2 c 8.83,0 16,7.169 16,16 0,8.831 -7.17,16 -16,16 -8.83,0 -16,-7.169 -16,-16 0,-8.831 7.17,-16 16,-16 z m 0,7.5 c -4.69,0 -8.5,3.809 -8.5,8.5 0,4.691 3.81,8.5 8.5,8.5 4.69,0 8.5,-3.809 8.5,-8.5 0,-4.691 -3.81,-8.5 -8.5,-8.5 z"
+   r="16.780294"
+   inkscape:label="Body" /><path
+   d="m 246.48,6.48 c 8.83,0 16,7.169 16,16 0,8.831 -7.17,16 -16,16 -8.83,0 -16,-7.169 -16,-16 0,-8.831 7.17,-16 16,-16 z m 0,7.5 c -4.69,0 -8.5,3.809 -8.5,8.5 0,4.691 3.81,8.5 8.5,8.5 4.69,0 8.5,-3.809 8.5,-8.5 0,-4.691 -3.81,-8.5 -8.5,-8.5 z"
    style="fill:url(#_Radial2)"
-   id="path1" />
-                    </g>
-                </g>
+   id="path1"
+   inkscape:label="Ring" />
             </g>
-        </g>
-    </g>
     <defs
    id="defs11">
         <radialGradient
@@ -76,18 +57,18 @@
    cy="0"
    r="1"
    gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(5.6633422,0,0,5.6633422,243.68001,19.679998)"><stop
+   gradientTransform="matrix(15.102265,0,0,15.102265,246.48117,22.48006)"><stop
      offset="0"
      style="stop-color:white;stop-opacity:1"
      id="stop2" /><stop
      offset="0.12"
      style="stop-color:white;stop-opacity:1"
      id="stop3" /><stop
-     offset="0.58"
-     style="stop-color:rgb(69,69,69);stop-opacity:0.27"
+     offset="0.57999998"
+     style="stop-color:#ffffff;stop-opacity:0.27000001;"
      id="stop4" /><stop
      offset="1"
-     style="stop-color:black;stop-opacity:0"
+     style="stop-color:#ffffff;stop-opacity:0;"
      id="stop5" /></radialGradient>
         <radialGradient
    id="_Radial2"
@@ -95,12 +76,12 @@
    cy="0"
    r="1"
    gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(16,0,0,16,1037,18)"><stop
+   gradientTransform="matrix(16,0,0,16,246.48,22.48)"><stop
      offset="0"
-     style="stop-color:black;stop-opacity:0"
+     style="stop-color:#ffffff;stop-opacity:0;"
      id="stop6" /><stop
-     offset="0.58"
-     style="stop-color:black;stop-opacity:0"
+     offset="0.57999998"
+     style="stop-color:#ffffff;stop-opacity:0;"
      id="stop7" /><stop
      offset="0.7"
      style="stop-color:rgb(189,189,189);stop-opacity:0.74"
@@ -112,7 +93,18 @@
      style="stop-color:rgb(181,181,181);stop-opacity:0.71"
      id="stop10" /><stop
      offset="1"
-     style="stop-color:black;stop-opacity:0"
+     style="stop-color:#ffffff;stop-opacity:0;"
      id="stop11" /></radialGradient>
-    </defs>
+    
+        
+    
+            
+        
+                    
+                    
+                
+                        
+                    
+                        
+                    </defs>
 </svg>

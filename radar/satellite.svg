@@ -1,24 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 19 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Hull" transform="matrix(1,0,0,1,-239,-7.09861)">
-            <g id="Satellite">
-                <g id="Hull1" serif:id="Hull">
-                    <g id="Panel" transform="matrix(6.12323e-17,-1,1,6.12323e-17,224,260)">
-                        <circle cx="242" cy="18" r="3" style="fill:url(#_Radial1);"/>
-                    </g>
-                    <g id="Panel-starboard" serif:id="Panel starboard" transform="matrix(6.12323e-17,-1,1,6.12323e-17,224,1086)">
-                        <path d="M1058,18L1064,18" style="fill:none;stroke:white;stroke-width:1px;"/>
-                    </g>
-                    <g id="Panel-port" serif:id="Panel port" transform="matrix(6.12323e-17,-1,1,6.12323e-17,224,1072)">
-                        <path d="M1058,18L1064,18" style="fill:none;stroke:white;stroke-width:1px;"/>
-                    </g>
-                </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 67.368421 67.368421"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5"
+   id="svg4"
+   sodipodi:docname="satellite.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.6557971"
+   inkscape:cx="-20.378593"
+   inkscape:cy="40.07334"
+   inkscape:window-width="1833"
+   inkscape:window-height="1186"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Satellite" />
+    <g
+   id="Satellite"
+   transform="matrix(3.125,0,0,3.125,-746.875,-22.183156)">
+                <circle
+   cx="-17.877558"
+   cy="249.77895"
+   style="fill:url(#_Radial1);stroke-width:1.01053"
+   id="circle1"
+   inkscape:label="Body"
+   transform="rotate(-90)"
+   r="3.031579" /><path
+   d="M 249.77895,27.98282 V 21.919663"
+   style="fill:none;stroke:#ffffff;stroke-width:0.84210526;stroke-linecap:butt;stroke-dasharray:none"
+   id="path1"
+   inkscape:label="Panel-starboard"
+   sodipodi:nodetypes="cc" /><path
+   d="M 249.77895,13.835452 V 7.7722941"
+   style="fill:none;stroke:#ffffff;stroke-width:0.84210526;stroke-dasharray:none;stroke-linecap:butt"
+   id="path2"
+   inkscape:label="Panel-port"
+   sodipodi:nodetypes="cc" />
             </g>
-        </g>
-    </g>
-    <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3,0,0,3,242,18)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.42" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></radialGradient>
-    </defs>
+    <defs
+   id="defs4">
+        <radialGradient
+   id="_Radial1"
+   cx="0"
+   cy="0"
+   r="1"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3.0315788,0,0,3.0315788,-17.877558,249.77894)"><stop
+     offset="0"
+     style="stop-color:white;stop-opacity:1"
+     id="stop2" /><stop
+     offset="0.42"
+     style="stop-color:white;stop-opacity:1"
+     id="stop3" /><stop
+     offset="1"
+     style="stop-color:black;stop-opacity:0"
+     id="stop4" /></radialGradient>
+    
+        
+    
+            
+        
+                    
+                    
+                    
+                
+                        
+                    
+                        
+                    
+                        
+                    </defs>
 </svg>

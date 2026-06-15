@@ -1,36 +1,109 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 114 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-511.296,-0.295836)">
-            <g id="Ktlitan-queen" serif:id="Ktlitan queen">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M0.505,2L5.505,7.5L7.505,7.5" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M0.505,32L5.505,26.5L7.505,26.5" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    </g>
-                    <g id="Hull">
-                        <g id="Starboard-leg" serif:id="Starboard leg" transform="matrix(1,0,0,-1,-256,36.5)">
-                            <path d="M789,15.5L782.5,9L777,9" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Port-leg" serif:id="Port leg" transform="matrix(1,0,0,1,-256,0)">
-                            <path d="M789,15L782.5,8.5L777,8.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Abdomen" transform="matrix(1,0,0,1,-256,0)">
-                            <path d="M770,15L784,15L789,16L789,20L784,21L770,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Tall-c-shallow" serif:id="Tall c shallow" transform="matrix(1,0,0,1,-255.985,0.0076134)">
-                            <path d="M795.485,8.492L790.485,8.492L788.985,9.992L788.985,25.992L790.485,27.492L795.485,27.492" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Neck" transform="matrix(1,0,0,1,-256,0)">
-                            <path d="M795.6,18L788.989,19L789,17L795.6,18Z" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 108.93617 108.93617"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg6"
+   sodipodi:docname="ktlitan_queen.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs6">
+            
+        
+        
+    
+                    
+                    
+                    
+                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        </defs><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.0903416"
+   inkscape:cx="62.129054"
+   inkscape:cy="97.885619"
+   inkscape:window-width="1024"
+   inkscape:window-height="1186"
+   inkscape:window-x="2637"
+   inkscape:window-y="257"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ktlitan-queen"
+   showguides="false" />
+    <g
+   id="Ktlitan-queen"
+   serif:id="Ktlitan queen"
+   transform="matrix(3.125,0,0,3.125,-1597.8,-0.9244875)">
+                
+            <path
+   d="m 540.16409,14.457537 3.26809,3.26809 -3.26809,3.268081"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.7234;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-9"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust"
+   transform="matrix(1.0180166,0,0,1.0180166,512.43752,1.4373565)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692595,6.369259 l 1.6051237,-1.4e-6"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="ccc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="m -0.05124008,32.051237 6.42049958,-6.420494 1.6051237,-10e-7"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="ccc" />
+            </g><g
+   id="Hull"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
+                        <path
+   d="m 532.81089,19.359666 -6.53617,8.170213 h -6.53617"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-linecap:butt;stroke-dasharray:none"
+   id="path2"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Ktlitan-queen-starboard-leg" />
+                        <path
+   d="m 532.81089,16.091581 -6.53617,-8.1702131 h -6.53617"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-linecap:butt;stroke-dasharray:none"
+   id="path3"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Ktlitan-queen-port-leg" />
+                        <path
+   d="m 512.38536,14.457538 h 15.52341 l 5.71914,1.634043 5.71915,1.634042 -5.71915,1.634043 -5.71914,1.634042 h -15.52341"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4"
+   sodipodi:nodetypes="ccccccc"
+   inkscape:label="Ktlitan-queen-abdomen" />
+                        <path
+   d="m 539.34706,7.9213679 h -4.0851 l -1.63405,1.6340426 0,16.3404255 1.63405,1.634042 h 4.0851"
+   style="fill:none;stroke:#ffffff;stroke-width:2.7234;stroke-linecap:butt;stroke-dasharray:none"
+   id="path5"
+   sodipodi:nodetypes="cccccc"
+   inkscape:label="C-bar-tall-shallow" />
+                        
+                    </g></g>
 </svg>

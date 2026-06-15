@@ -1,34 +1,113 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 111 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,1.70416,1.70416)">
-            <g id="Transport">
-                <g id="Ship1" serif:id="Ship">
-                    <path id="Nose" d="M25,13L26,13L31,16L26,19L25,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                    <g id="Exhaust">
-                        <path id="Exhaust-starboard" serif:id="Exhaust starboard" d="M1,1L5.296,5.296" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        <path id="Exhaust-port" serif:id="Exhaust port" d="M1,31L5.296,26.704" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 109.40171 109.40171"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg5"
+   sodipodi:docname="transport.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs5">
+            
+        
+        
+    
+                    
+                    
+                    
+                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        </defs><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.8029458"
+   inkscape:cx="46.914928"
+   inkscape:cy="122.01449"
+   inkscape:window-width="1923"
+   inkscape:window-height="1363"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Transport" />
+    <g
+   id="Transport"
+   transform="matrix(3.125,0,0,3.125,5.3255,5.3255)">
+                <path
+   d="m 75.213676,44.444444 10.256412,1.6e-5 20.512822,10.256409 -20.512822,10.256396 -10.256412,1.6e-5"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:8.54702;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1-8"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="Nose"
+   transform="matrix(0.32,0,0,0.32,-1.70416,-1.70416)" /><g
+   id="Exhaust"
+   transform="matrix(1.0223671,0,0,1.0223671,-0.55775642,-0.5577591)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;stroke:#ffffff;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><g
+   id="Hull"
+   style="stroke-width:2.73504274;stroke-dasharray:none">
+                        <path
+   d="M 5.9539597,5.9539597 V 25.646267"
+   style="fill:none;stroke:#ffffff;stroke-width:2.73504;stroke-linecap:square;stroke-dasharray:none"
+   id="path1"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-aft" />
+                        <path
+   d="M 12.5181,7.5949853 V 24.005242"
+   style="fill:none;stroke:#ffffff;stroke-width:2.73504;stroke-linecap:butt;stroke-dasharray:none"
+   id="path2"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-central" />
+                        <path
+   d="M 19.0822,7.5949853 V 24.005242"
+   style="fill:none;stroke:#ffffff;stroke-width:2.73504;stroke-linecap:butt;stroke-dasharray:none"
+   id="path3"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-fore" />
+                        <path
+   d="M 5.954,19.082165 H 25.6463"
+   style="fill:none;stroke:#ffffff;stroke-width:2.73504;stroke-linecap:butt;stroke-dasharray:none"
+   id="path4"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-starboard" />
+                        <path
+   d="M 5.954,12.518062 H 25.6463"
+   style="fill:none;stroke:#ffffff;stroke-width:2.73504;stroke-linecap:butt;stroke-dasharray:none"
+   id="path5"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Beam-port" />
                     </g>
-                    <g id="Hull">
-                        <g id="Beam-aft" serif:id="Beam aft" transform="matrix(1,0,0,1,0.490785,-3.55271e-15)">
-                            <path d="M6.009,6L6.009,26" style="fill:none;stroke:white;stroke-width:3px;"/>
-                        </g>
-                        <g id="Beam-central" serif:id="Beam central" transform="matrix(1,0,0,1,-1149,-2)">
-                            <path d="M1162,8.5L1162,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Beam-fore" serif:id="Beam fore" transform="matrix(1,0,0,1,-1143,-2)">
-                            <path d="M1162,8.5L1162,27.5" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Beam-starboard" serif:id="Beam starboard" transform="matrix(1,0,0,1,-1149,-2)">
-                            <path d="M1155.5,21L1174,21" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                        <g id="Beam-port" serif:id="Beam port" transform="matrix(1,0,0,1,-1149,-2)">
-                            <path d="M1155.5,15L1174,15" style="fill:none;stroke:white;stroke-width:3px;stroke-linecap:butt;"/>
-                        </g>
-                    </g>
-                </g>
             </g>
-        </g>
-    </g>
 </svg>

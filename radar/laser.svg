@@ -1,28 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 108 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <g transform="matrix(3.125,0,0,3.125,0,0)">
-        <g id="Ship" transform="matrix(1,0,0,1,-512.296,-3.29584)">
-            <g id="Laser">
-                <g id="Ship1" serif:id="Ship">
-                    <g id="Nose" transform="matrix(1,0,0,1,514,2)">
-                        <path d="M27,13L31,16L27,19" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:2px;"/>
-                    </g>
-                    <g id="Exhaust" transform="matrix(1,0,0,1,514.495,1)">
-                        <g id="Exhaust-starboard" serif:id="Exhaust starboard" transform="matrix(1,0,0,1,0,3)">
-                            <path d="M0.505,2L5.005,6.5" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        </g>
-                        <g id="Exhaust-port" serif:id="Exhaust port" transform="matrix(1,0,0,1,0,-2.5)">
-                            <path d="M0.505,31.5L5.005,27" style="fill:none;stroke:rgb(255,255,255);stroke-opacity:0.5;stroke-width:3px;"/>
-                        </g>
-                    </g>
-                    <g transform="matrix(1,0,0,1,-384,0)">
-                        <g id="Hull">
-                            <path d="M927,16L906,16C906,16 905.553,17.333 905.553,18C905.553,18.667 906,20 906,20L927,20L927,21C927,21 926.284,20.826 926,21C925.597,21.248 925.244,22.321 924.579,22.487C923.913,22.654 922.51,22.243 922,22C921.674,21.845 921.518,21.031 921.518,21.031C921.518,21.031 918.355,20.779 917.529,21.031C916.957,21.205 917.133,22.367 916.561,22.54C915.732,22.792 913.313,22.464 912.552,22.54C912.314,22.564 912.233,22.946 912,23C911.669,23.077 910.564,23 910.564,23C910.231,23.167 910.374,23.918 910,24C909.239,24.167 907.193,24.596 906,24C904.667,23.333 902.259,20 902.259,20C902.259,20 902,19.667 902,18C902,16.333 902.263,16 902.263,16C902.263,16 904.711,12.667 906,12C907.184,11.388 909.239,11.832 910,12C910.377,12.083 910.233,12.841 910.566,13.01C910.566,13.01 911.67,12.916 912,13.01C912.252,13.081 912.288,13.541 912.548,13.573C913.306,13.667 915.712,13.336 916.547,13.573C917.108,13.732 917.002,14.835 917.562,14.996C918.385,15.233 921.481,14.996 921.481,14.996C921.481,14.996 921.665,14.167 922,14C922.501,13.749 923.82,13.326 924.487,13.492C925.154,13.659 925.581,14.749 926,15C926.286,15.171 927,15 927,15L927,16Z" style="fill:white;"/>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 111.30435 111.30435"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   id="svg5"
+   sodipodi:docname="laser.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs5">
+        
+    
+            
+        
+                    
+                    
+                    
+                
+                        
+                    
+                            
+                        </defs><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="4"
+   inkscape:cx="7.25"
+   inkscape:cy="82.125"
+   inkscape:window-width="1693"
+   inkscape:window-height="1186"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Laser" />
+    <g
+   id="Laser"
+   transform="matrix(3.3086604,0,0,3.3086604,-1695.1205,-11.01186)">
+                
+            <path
+   d="m 538.60983,16.994572 6.30755,3.153778 -6.30755,3.153775"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.62815;stroke-linecap:butt;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:0.66"
+   id="path1"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="Nose" /><g
+   id="Exhaust"
+   transform="matrix(0.98240984,0,0,0.98240984,513.42994,4.4297888)"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:0.66">
+                <path
+   id="Exhaust-starboard"
+   serif:id="Exhaust starboard"
+   d="M -0.05124008,-0.05123786 6.3692548,6.369257"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+                <path
+   id="Exhaust-port"
+   serif:id="Exhaust port"
+   d="M -0.05124008,32.051237 6.3692548,25.630742"
+   style="fill:none;stroke:#ffffff;stroke-width:2.67521;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.66"
+   sodipodi:nodetypes="cc" />
+            </g><path
+   id="path5"
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.262815"
+   d="M 522.84094 13.840788 C 520.09021 13.853128 518.11881 17.278144 518.11027 20.148346 C 518.11881 23.018548 520.09021 26.443563 522.84094 26.455903 C 525.0016 26.465599 527.22023 25.799847 529.1485 24.879014 C 531.04282 23.974398 533.51638 23.307324 535.45605 23.302124 C 537.31303 23.297156 537.78147 24.879002 540.18672 24.879014 C 541.42836 24.853137 541.62432 23.048616 543.15673 22.51368 L 522.01348 22.51368 C 522.01348 22.51368 521.66715 21.106647 521.63415 20.148346 C 521.66715 19.190045 522.01348 17.783012 522.01348 17.783012 L 543.15673 17.783012 C 541.62432 17.248076 541.42836 15.443555 540.18672 15.417678 C 537.78147 15.41769 537.31303 16.999535 535.45605 16.994567 C 533.51638 16.989367 531.04282 16.322294 529.1485 15.417678 C 527.22023 14.496845 525.0016 13.831092 522.84094 13.840788 z "
+   inkscape:label="Hull" /></g>
 </svg>
